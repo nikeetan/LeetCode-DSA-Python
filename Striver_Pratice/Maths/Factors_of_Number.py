@@ -5,7 +5,7 @@ create a list which all satisfies the division logic
 
 Explored one logic where they traverse till square root of a number and find the numbers that are divisible
 ''' 
-from Check_Prime import prime
+from Striver_Pratice.Maths.Check_Prime import prime
 class factors:
     def __init__(self,k:int):
         self.number=k
