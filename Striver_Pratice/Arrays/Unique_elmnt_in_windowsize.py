@@ -58,7 +58,7 @@ class Unique:
             
         return Unique_subarray
 
-array=[0]
+array=[1,2,1,3,4,2,3]
 window=4
 fetch=Unique(array,window)
 print(fetch.fetch_subarray())
