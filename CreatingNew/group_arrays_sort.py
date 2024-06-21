@@ -13,5 +13,5 @@ def __main__():
     k=Group_sort(capital,profit)
     print(k.operation())
 
-        
+__main__()
         
