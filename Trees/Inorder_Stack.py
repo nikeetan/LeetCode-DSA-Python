@@ -7,19 +7,19 @@ class Tree:
 root=Tree(40)
 root.left=Tree(30)
 root.right=Tree(50)
-print(root)
 
-# stack=[]
-# while True:
-#     if root:
-#         stack.append(root)
-#         root=root.left
-#     else:
-#         if len(stack)==0:
-#             break
-#         root=stack.pop()
-#         print(root.val)
-#         root=root.right
+
+stack=[]
+while True:
+    if root:
+        stack.append(root)
+        root=root.left
+    else:
+        if len(stack)==0:
+            break
+        root=stack.pop()
+        print(root.val)
+        root=root.right
 
 
 
