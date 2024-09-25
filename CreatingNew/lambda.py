@@ -10,5 +10,17 @@ lambda_function=lambda x : x*5
 print("From Lambda Function:",lambda_function(5))
 
 lambda_function1=lambda x,y : x+y
-print(lambda_function1(2,3))
+print("From Lambda:",lambda_function1(2,3))
 
+#fetch the maximum of the dictionary
+
+d={0:100,1:200,2:300}
+print(max(d))
+key=lambda x:d[x]
+print(key(2))
+print("Maximum value:",max(d,key=lambda x:d[x]))
+
+
+# fun(x):return x*3
+# k=lambda x:x*3
+# k(3)
