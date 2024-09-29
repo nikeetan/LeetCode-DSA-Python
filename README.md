@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3379-score-of-a-string) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
