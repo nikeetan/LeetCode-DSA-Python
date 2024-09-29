@@ -1,11 +1,11 @@
 class Solution:
     def scoreOfString(self, s: str) -> int:
         p2=1
-        l=[]
+        sum1=0
         while p2<len(s):
-            l.append(abs(ord(s[p2-1])-ord(s[p2])))
+            sum1+=(abs(ord(s[p2-1])-ord(s[p2])))
             p2+=1
-        return sum(l)
+        return sum1
         
 
         
