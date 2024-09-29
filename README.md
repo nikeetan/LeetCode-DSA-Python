@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
