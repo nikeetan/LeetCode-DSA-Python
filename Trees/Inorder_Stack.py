@@ -20,9 +20,3 @@ while True:
         root=stack.pop()
         print(root.val)
         root=root.right
-
-
-
-
-
-
