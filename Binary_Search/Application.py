@@ -22,11 +22,39 @@ class Binsearch:
                 return self.search(array,element,low,mid-1)
             elif array[mid]<element:
                 return self.search(array,element,mid+1,high)
+
+    def rfgrowth(self,array:list[int],element:int,low:int,high:int):
+        # Left order growth
+        l=[]
+        while low<=high:
+            mid = low+(high-low)//2
+            if array[mid]==element:
+                high=mid-1
+            elif array[mid]<element:
+                low=mid+1
+            else:
+                high=mid-1
+        l.append((low))
+        low = 0
+        high = len(array)-1
+        while low<=high:
+            mid = low+(high-low)//2
+            if array[mid]==element:
+                low=mid+1
+            elif array[mid]<element:
+                low=mid+1
+            else:
+                high=mid-1
+        l.append((high))
+        return l
+
+
+
+    
 array=[1,2,3,3,3,3,3,3,3,3,4,5,6,7,8,10]
 do=Binsearch()
 element=3
-print(do.linear_serach(array,element))
+print(do.rfgrowth(array,element,low=0,high=len(array)-1))
 
-#print(do.search(array,element,low=0,high=len(array)-1))
 
 
