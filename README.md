@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
 | ------- |
