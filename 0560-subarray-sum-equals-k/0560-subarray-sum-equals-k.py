@@ -11,7 +11,6 @@ class Solution:
                 pre_hash[prefix_sum]=1
             else:
                 pre_hash[prefix_sum]+=1
-        print(pre_hash)
         return count 
 
 
