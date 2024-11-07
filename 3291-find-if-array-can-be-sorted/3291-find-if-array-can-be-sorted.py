@@ -6,15 +6,33 @@ class Solution:
             num = num//2
         return count
     def canSortArray(self, nums: List[int]) -> bool:
-        for i in range(len(nums)):
-            for j in range(len(nums)-i-1):
-                if nums[j]<nums[j+1]:
-                    continue
-                else:
-                    if ((self.count_set(nums[j])==self.count_set(nums[j+1])) and (nums[j]>=nums[j+1])):
-                        nums[j],nums[j+1]=nums[j+1],nums[j]
-                    else:
-                        return False
+        # for i in range(len(nums)):
+        #     for j in range(len(nums)-i-1):
+        #         if nums[j]<nums[j+1]:
+        #             continue
+        #         else:
+        #             if ((self.count_set(nums[j])==self.count_set(nums[j+1])) and (nums[j]>=nums[j+1])):
+        #                 nums[j],nums[j+1]=nums[j+1],nums[j]
+        #             else:
+        #                 return False
+        i = 1
+        n = len(nums)
+        prev_max=float('-inf')
+        curr_max=nums[0]
+        curr_min=nums[0]
+        set_bit_count = self.count_set(nums[0])
+        while i < n:
+            while((i<n) and (self.count_set(nums[i])==set_bit_count)):
+                curr_max=max(curr_max,nums[i])
+                curr_min=min(curr_min,nums[i])
+                i+=1
+            if prev_max>curr_min:
+                return False
+            elif (i<n):
+                prev_max = curr_max
+                curr_max=nums[i]
+                curr_min=nums[i]
+                set_bit_count=self.count_set(nums[i])
         return True
                 
         
