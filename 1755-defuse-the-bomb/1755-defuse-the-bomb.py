@@ -9,10 +9,8 @@ class Solution:
             while i<to_divide:
                 j=i+1
                 sum1=0
-                print('for i th pos',i)
                 while j<k+i+1:
                     sum1+=code[j%to_divide]
-                    print(code[j%to_divide])
                     j+=1
                 new_list[i]=sum1
                 i+=1
