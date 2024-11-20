@@ -16,7 +16,6 @@ class Solution:
                     left+=1
                 win_size=min(win_size,len(s)-(right-left+1))
                 right+=1
-            print(win_size)
             return win_size
 
 
