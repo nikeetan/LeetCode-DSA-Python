@@ -7,6 +7,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0176-second-highest-salary) |
+| [0577-employee-bonus](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0577-employee-bonus) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Array
 |  |
