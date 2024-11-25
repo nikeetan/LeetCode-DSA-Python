@@ -5,4 +5,4 @@ class Solution:
         k=str(k)
         new_list=[int(x) for x in k]
         return new_list
-        
+    
