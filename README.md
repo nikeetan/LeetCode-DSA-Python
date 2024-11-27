@@ -122,4 +122,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0203-remove-linked-list-elements) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
