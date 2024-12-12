@@ -7,7 +7,6 @@ class Solution:
         count=0
         while count<k:
             x=heapq.heappop(gifts)
-            print(x,math.sqrt(-x))
             heapq.heappush(gifts,-int(math.sqrt(-x)))
             count+=1
         return sum([-x for x in gifts]) 
