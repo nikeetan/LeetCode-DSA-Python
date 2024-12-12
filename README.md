@@ -24,6 +24,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
@@ -126,4 +127,12 @@
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3189-find-champion-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
