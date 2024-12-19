@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
