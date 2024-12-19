@@ -48,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -144,6 +145,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
