@@ -13,6 +13,12 @@ class Tree:
             to_return.append(visited.pop(0).data)
             temp = visited[0]
         return to_return
+    
+    def Bottomup(self,to_return)->list[int]:
+        return to_return[::-1]
+    
+       
+
 
 root = Tree(10)
 head = root
@@ -23,4 +29,5 @@ root.left.right = Tree(50)
 root.right.left = Tree(60)
 root.right.right= Tree(70)
 
-print(root.bfs(head))
+fetched_list=root.bfs(head)
+print(root.Bottomup(fetched_list))
