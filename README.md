@@ -166,4 +166,20 @@
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0047-permutations-ii) |
+## Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Depth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
