@@ -169,17 +169,21 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
