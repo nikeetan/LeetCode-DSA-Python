@@ -1,5 +1,6 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
+        '''
         nums=sorted(nums)
         p1=0
         p2=1
@@ -8,4 +9,13 @@ class Solution:
                 return nums[p1]
             p1+=1
             p2+=1
+        '''
+        hash_map={}
+        for i in range(1,len(nums)+1):
+            hash_map[i]=0
+        for i in nums:
+            if hash_map[i]!=0:
+                return i
+            else:
+                hash_map[i]=1
         
