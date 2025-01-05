@@ -10,6 +10,7 @@ class Solution:
             p1+=1
             p2+=1
         '''
+        '''
         hash_map={}
         for i in range(1,len(nums)+1):
             hash_map[i]=0
@@ -18,4 +19,18 @@ class Solution:
                 return i
             else:
                 hash_map[i]=1
+        '''
+        slow,fast=0,0
+        while True:
+            slow=nums[slow]
+            fast=nums[nums[fast]]
+            if slow==fast:
+                break
+        fast=0
+        while True:
+            slow=nums[slow]
+            fast=nums[fast]
+            if slow==fast:
+                break
+        return slow
         
