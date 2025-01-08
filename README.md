@@ -43,6 +43,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
@@ -142,6 +143,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
