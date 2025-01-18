@@ -4,6 +4,48 @@ class Tree:
         self.right=None
         self.val=val
 
+
+def is_symmetric(root):
+    temp=root
+    queue=[]
+    queue.append(temp.left)
+    queue.append(temp.right)
+    while queue:
+        left=queue.pop(0)
+        right=queue.pop(0)
+        if ((left is None) and (right is None)):
+            continue
+        if left.val!=right.val:
+            return False
+        if (left is None) or (right is None):
+            return False
+        queue.append(left.left)
+        queue.append(right.right)
+        queue.append(left.right)
+        queue.append(right.left)
+    return True
+    
+
+
+
+
+def bfs(root):
+    if root is None:
+        return 
+    to_visit=[root]
+    bfs=[]
+    while to_visit:
+        temp=to_visit[0]
+        if temp:
+            to_visit.append(temp.left)
+            to_visit.append(temp.right)
+            bfs.append(temp.val)
+        to_visit.pop(0)
+    return bfs
+    
+
+
+'''
 def bfs(root):
     temp=root
     to_visit=[]
@@ -19,6 +61,7 @@ def bfs(root):
         if to_visit:
             temp=to_visit[0]
     return bfs_l
+'''
 
 
 
@@ -46,3 +89,5 @@ temp.right.right=Tree(7)
 print(inorder(root))
 
 print(bfs(root))
+
+print(is_symmetric(root))
