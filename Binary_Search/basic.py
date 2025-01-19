@@ -28,7 +28,7 @@ def search(element:int,array:list,high:int,low:int):
     #     if array[mid]>element:
     #         high=mid-1
 array=[1,2,3,4,5,6,7,8,9,10]
-element=1
+element=10
 low=0
 high=len(array)-1
 #print(array[high])
