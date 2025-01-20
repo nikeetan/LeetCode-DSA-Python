@@ -1,24 +1,21 @@
 def binary_range(arr:list[int],target:int,low:int,high:int):
     # Left Growth
     range_l=[]
-    while low<=high:
-        
+    while low<=high:        
         mid = low + (high-low)//2
-        print(low,mid,high)
         if arr[mid]==target:
             high=mid-1
         elif arr[mid]<target:
             low = mid+1
         else:
             high = mid-1
-    if low<=len(arr) and arr[low]==target:
+    if low<len(arr) and arr[low]==target:
         range_l.append(low)
     #Right Growth
     low,high=0,len(arr)-1
     while low<=high:
-       
+    
         mid = low + (high-low)//2
-        print(low,mid,high)
         if arr[mid]==target:
             low=mid+1
         elif arr[mid]<target:
