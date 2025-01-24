@@ -9,13 +9,12 @@ class Solution:
         que=[root]
         to_return=[]
         while que:
-            for i in range(len(que)):
-                temp=que.pop(0)
-                if temp:
-                    if temp.val==val:
-                        return temp
-                    if val<temp.val:
-                        que.append(temp.left)
-                    else:
-                        que.append(temp.right)
+            temp=que.pop(0)
+            if temp:
+                if temp.val==val:
+                    return temp
+                if val<temp.val:
+                    que.append(temp.left)
+                else:
+                    que.append(temp.right)
         return None
