@@ -196,6 +196,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0278-first-bad-version) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
