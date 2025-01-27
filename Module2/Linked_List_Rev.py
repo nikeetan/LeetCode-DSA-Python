@@ -43,7 +43,6 @@ def Rotate_ktime(Head:Node, k:int):
     while fast.next:
         slow=slow.next
         fast=fast.next
-    print("Slow",slow.data)
     fast.next=Head
     Head=slow.next
     slow.next=None
