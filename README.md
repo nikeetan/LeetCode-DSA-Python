@@ -52,6 +52,7 @@
 | [0061-rotate-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -165,11 +166,13 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0203-remove-linked-list-elements) |
 ## Graph
 |  |
@@ -191,6 +194,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
