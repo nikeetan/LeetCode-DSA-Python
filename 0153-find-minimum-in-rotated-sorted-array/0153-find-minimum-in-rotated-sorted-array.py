@@ -1,19 +1,16 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        '''
-        grow right and then come left
-        '''
         low,high=0,len(nums)-1
         while low<=high:
+            mid=low+(high-low)//2
             if nums[low]<=nums[high]:
                 return nums[0]
             else:
-                mid=low+(high-low)//2
-                if nums[mid+1]<nums[mid]:
+                if nums[mid]>nums[mid+1]:
                     return nums[mid+1]
-                elif nums[mid-1]>nums[mid]:
+                if nums[mid]<nums[mid-1]:
                     return nums[mid]
-                elif nums[mid]>nums[low]:
+                if nums[low]<nums[mid]:
                     low=mid+1
                 else:
                     high=mid-1
