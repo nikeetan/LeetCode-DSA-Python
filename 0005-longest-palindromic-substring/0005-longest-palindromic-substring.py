@@ -21,8 +21,6 @@ class Solution:
                         flag=0
                         if j!=p1:
                             p2=j
-                        while s[p1]!=s[p2]:
-                            p2-=1
                         if p1<p2:
                             cp1=p1
                             cp2=p2
