@@ -14,9 +14,7 @@ class Solution:
         if len(ind)==1:
             return s
         else:
-            print(ind)
             to_return=""
-            maxi=float('-inf')
             for i in range(len(s)):
                 for j in ind[s[i]]:
                     p1=i
@@ -38,7 +36,6 @@ class Solution:
                                 p2-=1
                         if ((flag==0) and (len(to_return)<cp2-cp1+1)):
                             to_return=s[cp1:cp2+1]
-                            print(to_return)
             if len(to_return)==0:
                 return s[0]
             else:
