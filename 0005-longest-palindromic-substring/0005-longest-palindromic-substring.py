@@ -1,6 +1,26 @@
 class Solution:
+    def Expand(self,s,left,right):
+        while left>=0 and right<len(s) and s[left]==s[right]:
+            left-=1
+            right+=1
+        return s[left+1:right]
    
     def longestPalindrome(self, s: str) -> str:
+        to_return=""
+        for i in range(len(s)):
+            n1=self.Expand(s,i,i)
+            n2=self.Expand(s,i,i+1)
+            if len(n1)>len(to_return):
+                to_return=n1
+            if len(n2)>len(to_return):
+                to_return=n2
+        return to_return
+
+
+
+
+
+        '''
         ind={}
         for i in range(len(s)):
             if s[i] not in ind:
@@ -37,5 +57,6 @@ class Solution:
                 return s[0]
             else:
                 return to_return
+        '''
 
                             
