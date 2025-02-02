@@ -35,6 +35,7 @@
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1755-defuse-the-bomb) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
