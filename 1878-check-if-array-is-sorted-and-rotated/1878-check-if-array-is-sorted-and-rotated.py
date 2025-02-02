@@ -13,5 +13,4 @@ class Solution:
         for i in range(p2):
             new_num[cnt]=nums[i]
             cnt+=1
-        print(new_num)
         return sorted(nums)==new_num
