@@ -8,7 +8,6 @@ class Solution:
         decreasing=1
         while p2<len(nums):
             if nums[p2-1]<nums[p2]:
-                print(nums[p1],nums[p2])
                 increasing=max(increasing,p2-p1+1)
             else:
                 p1=p2
