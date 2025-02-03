@@ -13,7 +13,6 @@ class Solution:
             else:
                 p1=p2
             p2+=1
-        print(increasing)
         p1,p2=0,1
         while p2<len(nums):
             if nums[p2-1]>nums[p2]:
