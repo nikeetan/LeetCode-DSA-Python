@@ -1,5 +1,6 @@
 class Solution:
     def maxAscendingSum(self, nums: List[int]) -> int:
+        '''
         stack=[]
         ans=0
         for i in nums:
@@ -10,10 +11,6 @@ class Solution:
         if stack:
             ans=max(ans,sum(stack))
         return ans
-
-
-
-
         '''
         p1,p2,ascending,ans=0,1,nums[0],0
         while p2<len(nums):
@@ -26,4 +23,3 @@ class Solution:
             p2+=1
         ans=max(ans,ascending)
         return ans
-        '''
