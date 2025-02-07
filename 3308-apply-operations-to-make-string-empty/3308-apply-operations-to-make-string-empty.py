@@ -1,6 +1,6 @@
 class Solution:
     def lastNonEmptyString(self, s: str) -> str:
-        
+
         d={}
         for i in range(len(s)):
             if s[i] not in d:
@@ -15,10 +15,4 @@ class Solution:
             if len(values)==maxi:
                 to_return.append(values[-1])
         to_return=sorted(to_return)
-        k=""
-        for i in to_return:
-            if len(k)==0:
-                k=s[i]
-            else:
-                k+=s[i]
-        return k
+        return "".join(s[i] for i in to_return)
