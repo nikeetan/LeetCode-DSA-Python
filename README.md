@@ -207,6 +207,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0203-remove-linked-list-elements) |
