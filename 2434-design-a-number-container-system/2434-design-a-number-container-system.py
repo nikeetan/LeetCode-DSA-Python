@@ -1,11 +1,11 @@
 import heapq
 class NumberContainers:
-
     def __init__(self):
-        self.ind={}
+        self.ind=defaultdict(int)
         self.numb=defaultdict(list)
+
     def change(self, index: int, number: int) -> None:
-        self.ind[index]=number
+        self.ind[index]=number   
         heappush(self.numb[number],index)
 
     def find(self, number: int) -> int:
@@ -17,7 +17,12 @@ class NumberContainers:
             heappop(self.numb[number])
         return -1
 
+
+
+
         
+
+
 # Your NumberContainers object will be instantiated and called as such:
 # obj = NumberContainers()
 # obj.change(index,number)
