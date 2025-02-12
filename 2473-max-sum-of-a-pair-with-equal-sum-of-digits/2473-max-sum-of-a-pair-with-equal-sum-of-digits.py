@@ -14,9 +14,7 @@ class Solution:
         maxi=float('-inf')
         for key,value in d.items():
             if len(value)>=2:
-                sum1=-1*heappop(d[key])
-                sum1+=-1*heappop(d[key])
-                maxi=max(maxi,sum1)
+                maxi=max(maxi,(-1*heappop(d[key])+(-1*heappop(d[key]))))
         if maxi==float('-inf'):
             return -1
         else:
