@@ -1,16 +1,15 @@
 class Solution:
-    def memo(self,n,memory):
-        if n in memory:
-            return memory[n]
-        if n<=1:
-            return n
-        memory[n]=self.memo(n-2,memory)+self.memo(n-1,memory)
-        return memory[n]
     def fib(self, n: int) -> int:
-        memory={}
-        return self.memo(n,memory)
-
-
-
-        
-        
+        if n>=2:
+            dp=[[] for x in range(n+1)]
+            dp[0]=0
+            dp[1]=1
+            for i in range(2,n+1):
+                print(i,i-1,i-2)
+                dp[i]=dp[i-1]+dp[i-2]
+            return dp[n]
+        else:
+            if n==0:
+                return 0
+            else:
+                return 1
