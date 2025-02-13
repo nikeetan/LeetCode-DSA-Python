@@ -33,6 +33,7 @@
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0777-toeplitz-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 | [1364-tuple-with-same-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1364-tuple-with-same-product) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -77,6 +78,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
+| [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [2728-sum-in-a-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
@@ -217,6 +220,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
@@ -257,6 +261,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2692-take-gifts-from-the-richest-pile) |
