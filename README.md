@@ -54,6 +54,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -248,6 +249,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2728-sum-in-a-matrix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -257,6 +259,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2728-sum-in-a-matrix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
