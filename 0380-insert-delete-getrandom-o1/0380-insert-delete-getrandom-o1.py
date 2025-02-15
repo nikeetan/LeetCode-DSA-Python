@@ -27,7 +27,7 @@ class RandomizedSet:
         
     def getRandom(self) -> int:
         if self.list1:
-            return (random.choices(self.list1)[0])
+            return random.choice(self.list1)
         
 
 
