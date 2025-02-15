@@ -17,9 +17,8 @@ class RandomizedSet:
         if val not in self.hash_map:
             return False
         index=self.hash_map[val]
-        ele=self.list1[-1]
         self.list1[-1],self.list1[index]=self.list1[index],self.list1[-1]
-        self.hash_map[ele]=index
+        self.hash_map[self.list1[index]]=index
         self.list1.pop()
         del self.hash_map[val]
         return True
