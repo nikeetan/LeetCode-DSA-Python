@@ -18,8 +18,7 @@ class RandomizedSet:
             return False
         index=self.hash_map[val]
         ele=self.list1[-1]
-        self.list1[-1]=val
-        self.list1[index]=ele
+        self.list1[-1],self.list1[index]=self.list1[index],self.list1[-1]
         self.hash_map[ele]=index
         self.list1.pop()
         del self.hash_map[val]
