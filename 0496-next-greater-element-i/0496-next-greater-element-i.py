@@ -9,10 +9,8 @@ class Solution:
                     stack.pop()
                 if stack:
                     d[nums2[p2]]=stack[-1]
-                else:
-                    d[nums2[p2]]=-1
-                stack.append(nums2[p2])
-            else:
+                    stack.append(nums2[p2])
+            if len(stack)==0:
                 d[nums2[p2]]=-1
                 stack.append(nums2[p2])
             p2-=1
