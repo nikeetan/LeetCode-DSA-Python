@@ -117,6 +117,7 @@
 | [0812-rotate-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0812-rotate-string) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1160-letter-tile-possibilities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -158,6 +159,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
+| [1160-letter-tile-possibilities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1364-tuple-with-same-product) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -178,6 +180,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
@@ -323,6 +326,7 @@
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0047-permutations-ii) |
+| [1160-letter-tile-possibilities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
