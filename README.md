@@ -43,6 +43,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1755-defuse-the-bomb) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -85,6 +86,7 @@
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -156,6 +159,7 @@
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
 | [1364-tuple-with-same-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1364-tuple-with-same-product) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
