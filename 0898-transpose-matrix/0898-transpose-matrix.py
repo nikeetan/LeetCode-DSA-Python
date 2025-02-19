@@ -5,5 +5,4 @@ class Solution:
         for i in range(rows):
             for j in range(cols):
                 x[j][i]=matrix[i][j]
-    
         return x
