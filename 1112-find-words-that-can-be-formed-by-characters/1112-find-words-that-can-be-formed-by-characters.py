@@ -13,13 +13,14 @@ class Solution:
             for j in i:
                 if j not in d2:
                     d2[j]=1
+                    if j not in d1:
+                        flag=1
+                        break
                 else:
                     d2[j]+=1
-            
-            for key,val in d2.items():
-                if ((key not in d1) or (d1[key]<val)):
-                    flag=1
-                    break
+                    if ((j not in d1) or(d2[j]>d1[j])):
+                        flag=1
+                        break
             if flag==0:
                 cnt+=len(i)
         return cnt
