@@ -21,6 +21,7 @@
 | [0054-spiral-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -77,6 +78,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0015-3sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
