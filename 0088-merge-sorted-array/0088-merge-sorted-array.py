@@ -16,13 +16,10 @@ class Solution:
         """
         while len(nums1)!=m:
             nums1.pop()
-
         for i in nums2:
             low=0
             high=len(nums1)-1
-            print(self.bin_insert(nums1,low,high,i),i)
             nums1.insert(self.bin_insert(nums1,low,high,i),i)
-            print(nums1)
         while len(nums1)>m+n:
             last=len(nums1)-1
             while last>=0 and nums1[last]!=0:
