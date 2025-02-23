@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
@@ -344,6 +346,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -363,6 +366,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -375,6 +379,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
