@@ -27,7 +27,7 @@ class Solution:
         
         root.left = self.tree(
             preorder, pre_start + 1, pre_start + length,  
-            postorder, post_start, left_root_idx+1,         
+            postorder, post_start, left_root_idx,         
             indx_map
         )
 
