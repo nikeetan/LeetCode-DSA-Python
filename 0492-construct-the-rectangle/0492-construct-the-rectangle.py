@@ -1,5 +1,9 @@
 class Solution:
     def constructRectangle(self, area: int) -> List[int]:
-        for i in range(int(area**0.5),0,-1):
-            if area%i==0:
-                return [area//i,i]
+        def helper(number:int):
+            print(number)
+            if area%number==0:
+                return [area//number,number]
+            return helper(number-1)
+
+        return helper(int(area**0.5))
