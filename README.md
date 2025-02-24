@@ -146,6 +146,7 @@
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0492-construct-the-rectangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0492-construct-the-rectangle) |
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
