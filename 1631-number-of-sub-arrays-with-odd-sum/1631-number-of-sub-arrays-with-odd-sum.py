@@ -3,8 +3,8 @@ class Solution:
         os=0
         es=1
         sum1=0
-        for i in range(len(arr)):
-            sum1+=arr[i]
+        for i in arr:
+            sum1+=i
             if sum1%2==0:
                 es+=1
             else:
