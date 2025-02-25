@@ -8,10 +8,8 @@ class Solution:
         for i in range(len(arr)):
             sum1+=arr[i]
             if sum1%2==0:
-                count=(count+os)%mod
                 es+=1
             else:
-                count=(count+es)%mod
                 os+=1
-        return count
+        return (os*es)%mod
 
