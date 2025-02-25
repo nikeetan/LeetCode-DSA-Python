@@ -1,6 +1,5 @@
 class Solution:
     def numOfSubarrays(self, arr: List[int]) -> int:
-        os=0
         es=0
         sum1=0
         k=len(arr)
@@ -8,7 +7,5 @@ class Solution:
             sum1+=i
             if sum1%2==0:
                 es+=1
-            else:
-                os+=1
         return ((k-es)*(es+1))%(pow(10,9)+7)
 
