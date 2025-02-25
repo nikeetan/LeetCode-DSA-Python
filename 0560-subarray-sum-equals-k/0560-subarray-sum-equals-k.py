@@ -1,18 +1,14 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        prefix_sum = 0
-        pre_hash = {0:1}
-        count = 0
-        for i in range(len(nums)):
-            prefix_sum = prefix_sum + nums[i]
-            if (prefix_sum - k) in pre_hash:
-                count += pre_hash[prefix_sum-k]
-            if prefix_sum not in pre_hash:
-                pre_hash[prefix_sum]=1
+        ps=0
+        ps_map={0:1}
+        count=0
+        for i in nums:
+            ps+=i
+            if ps-k in ps_map:
+                count+=ps_map[ps-k]
+            if ps not in ps_map:
+                ps_map[ps]=1
             else:
-                pre_hash[prefix_sum]+=1
-        return count 
-
-
-
-                
+                ps_map[ps]+=1
+        return count
