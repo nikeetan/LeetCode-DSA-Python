@@ -7,4 +7,4 @@ class Solution:
             ps+=i
             max_ps=max(max_ps,ps)
             min_ps=min(min_ps,ps)
-        return abs(max_ps-min_ps)
+        return max_ps-min_ps
