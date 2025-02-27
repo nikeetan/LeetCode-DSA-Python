@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -240,6 +241,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
