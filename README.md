@@ -154,6 +154,7 @@
 | [0002-add-two-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0492-construct-the-rectangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0492-construct-the-rectangle) |
@@ -242,6 +243,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
@@ -438,6 +440,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
