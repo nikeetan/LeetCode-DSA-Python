@@ -8,7 +8,6 @@ class Solution:
                 l+=1
             else:
                 e+=1
-        # Pass algo
         p1=0
         p2=s
         p3=s+e
