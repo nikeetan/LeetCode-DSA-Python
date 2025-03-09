@@ -83,6 +83,7 @@
 | [3429-special-array-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -240,6 +241,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3463-alternating-groups-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
