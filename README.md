@@ -166,6 +166,7 @@
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0492-construct-the-rectangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0492-construct-the-rectangle) |
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
@@ -332,6 +333,7 @@
 | [0002-add-two-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 ## Graph
 |  |
