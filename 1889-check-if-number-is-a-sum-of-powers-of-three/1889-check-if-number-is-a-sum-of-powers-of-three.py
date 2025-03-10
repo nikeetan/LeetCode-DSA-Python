@@ -1,16 +1,16 @@
 class Solution:
-    '''
-    Yedak or operation andre you will get true or f
-    '''
-    def helper(self,n,power):
-        if n==0:
-            return True
-        if n<3**power:
-            return False
-        return self.helper(n-3**power,power+1) or self.helper(n,power+1)
     def checkPowersOfThree(self, n: int) -> bool:
         power=0
-        return self.helper(n,power)
+        while 3**power<=n:
+            power+=1
+        power-=1
+        while n>0 and power>=0:
+            if 3**power<=n:
+                n=n-(3**power)
+            if 3**power<n:
+                return False
+            power-=1
+        return True if n==0 else False
 
         
         
