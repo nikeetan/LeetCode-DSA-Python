@@ -6,9 +6,8 @@ class Solution:
         while p2<len(s):
             oc[s[p2]]+=1
             while min(oc.values())==1:
-                cnt+=len(s)-(p2+1)
+                cnt+=len(s)-(p2)
                 oc[s[p1]]-=1
                 p1+=1
-                cnt+=1
             p2+=1
         return cnt
