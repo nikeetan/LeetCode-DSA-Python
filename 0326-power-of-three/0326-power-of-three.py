@@ -6,4 +6,4 @@ class Solution:
             n=n//3
             if rem!=0:
                 return False
-        return True if n==1 and rem==0 else False
+        return True if n==1 else False
