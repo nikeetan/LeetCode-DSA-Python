@@ -5,19 +5,22 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def tree(self,inorder,in_start,in_end,postorder,post_start,post_end,indx_map):
-        if post_start>post_end or in_start>in_end:
+    def helper(self,inorder_map,inorder,in_start,in_end,postorder,pos_start,pos_end):
+        if in_start>in_end or pos_start>pos_end:
             return None
-    
-        root=TreeNode(postorder[post_end])
-        length=indx_map[root.val]-in_start
-        root.left=self.tree(inorder,in_start,indx_map[root.val]-1,postorder,post_start,post_start+length-1,indx_map)
-        root.right=self.tree(inorder,indx_map[root.val]+1,in_end,postorder,post_start+length,post_end-1,indx_map)
+        root=TreeNode(postorder[pos_end])
+        length=inorder_map[root.val]-in_start
+        root.left=self.helper(inorder_map,inorder,in_start,inorder_map[root.val]-1,postorder,pos_start,pos_start+length-1)
+        root.right=self.helper(inorder_map,inorder,inorder_map[root.val]+1,in_end,postorder,pos_start+length,pos_end-1)
         return root
     def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
-        indx_map={}
+        inorder_map={}
+        in_end=len(inorder)-1
+        in_start=0
+        pos_start=0
+        pos_end=len(postorder)-1
         for i in range(len(inorder)):
-            indx_map[inorder[i]]=i
-        return self.tree(inorder,0,len(inorder)-1,postorder,0,len(postorder)-1,indx_map)
-
+            if inorder[i] not in inorder_map:
+                inorder_map[inorder[i]]=i
+        return self.helper(inorder_map,inorder,in_start,in_end,postorder,pos_start,pos_end)
         
