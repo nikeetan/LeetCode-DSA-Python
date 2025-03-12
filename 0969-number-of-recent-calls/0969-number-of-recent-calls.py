@@ -1,6 +1,5 @@
 class RecentCounter:
     def __init__(self):
-        self.counter=[]
         self.range=[]
     def binsearch(self,target,left,right):
         while left<right:
@@ -13,7 +12,7 @@ class RecentCounter:
                 right=mid-1
         return left
     def ping(self, t: int) -> int:
-        if self.counter:
+        if self.range:
             self.range.insert(self.binsearch(t,0,len(self.range)-1),t)
             mini=t-3000
             maxi=t
@@ -24,11 +23,10 @@ class RecentCounter:
                     if f_i==-1:
                         f_i=i
                     s_i=i
-            self.counter.append(s_i-f_i+1)
+            return (s_i-f_i+1)
         else:
             self.range.append(t)
-            self.counter.append(1)
-        return self.counter[-1]
+            return 1
 
             
 
