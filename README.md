@@ -339,6 +339,7 @@
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0237-delete-node-in-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
