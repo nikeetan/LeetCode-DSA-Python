@@ -10,6 +10,7 @@
 | [0577-employee-bonus](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Array
