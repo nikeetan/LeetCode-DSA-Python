@@ -17,16 +17,14 @@ class Solution:
                 depth += 1
                 for current_level in range(level):
                     current_node = queue.popleft()
-                    if current_node:
-                        if current_node.left or current_node.right:
-                            if current_node.left:
-                                queue.append(current_node.left)
-                            if current_node.right:
-                                queue.append(current_node.right)
-                        else:
-                            return depth  
+                    if current_node.left or current_node.right:
+                        if current_node.left:
+                            queue.append(current_node.left)
+                        if current_node.right:
+                            queue.append(current_node.right)
                     else:
-                        return depth
+                        return depth  
+                    
             return depth
 
             
