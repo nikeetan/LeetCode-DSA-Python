@@ -432,6 +432,7 @@
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
@@ -441,6 +442,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -449,6 +451,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -459,6 +462,7 @@
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
