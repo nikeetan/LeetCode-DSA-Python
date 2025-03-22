@@ -13,14 +13,14 @@ class Solution:
             visited = []
             while queue:
                 level = len(queue)
-                levelwise_nodes = []
+                levelwise_nodes = 0
                 for current_level in range(level):
                     current_node = queue.popleft()
-                    levelwise_nodes.append(current_node.val)
+                    levelwise_nodes += current_node.val
                     if current_node.left or current_node.right:
                         if current_node.left:
                             queue.append(current_node.left)
                         if current_node.right:
                             queue.append(current_node.right)
-                visited.append(sum(levelwise_nodes)/level)
+                visited.append(levelwise_nodes/level)
             return visited
