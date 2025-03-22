@@ -23,8 +23,7 @@ class Solution:
                         if current_node.right:
                             queue.append(current_node.right)
                     else:
-                        return depth  
-                    
+                        return depth       
             return depth
 
             
