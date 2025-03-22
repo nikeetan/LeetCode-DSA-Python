@@ -367,6 +367,7 @@
 ## Graph
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -443,6 +444,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -450,6 +452,7 @@
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -529,4 +532,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0969-number-of-recent-calls) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
