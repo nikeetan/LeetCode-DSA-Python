@@ -6,17 +6,14 @@
 #         self.right = None
 
 class Solution:
-    def helper(self,root,p,q):
-        if ((root is None) or (root==p) or (root==q)):
-            return root
-        l=self.helper(root.left,p,q)
-        r=self.helper(root.right,p,q)
-        if l and r:
-            return root
-        if not l:
-            return r
-        return l
-        
-
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        return self.helper(root,p,q)
+        if ((root is None) or (root == p) or (root == q)):
+            return root
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
+        if left and right:
+            return root
+        if left:
+            return left 
+        return right
+        
