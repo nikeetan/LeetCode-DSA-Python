@@ -23,4 +23,10 @@ class Solution:
                         if current_node.right:
                             queue.append(current_node.right)
                 visited.append(levelwise_nodes)
-            return visited[::-1]
+            if visited:
+                p1,p2=0,len(visited)-1
+                while p1<p2:
+                    visited[p1],visited[p2] = visited[p2],visited[p1]
+                    p1+=1
+                    p2-=1
+            return visited
