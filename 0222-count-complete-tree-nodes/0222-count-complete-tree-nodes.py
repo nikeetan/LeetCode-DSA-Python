@@ -12,7 +12,6 @@ class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if root is None:
             return 0
-        
         queue = deque([root])
         node_count = 0
         while queue:
