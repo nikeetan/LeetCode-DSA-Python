@@ -55,6 +55,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1364-tuple-with-same-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1477-product-of-the-last-k-numbers) |
@@ -121,6 +122,7 @@
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
+| [1019-squares-of-a-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -134,6 +136,7 @@
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
