@@ -1,16 +1,23 @@
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
-        n=len(nums)
-        ans=[0]*n
-        sl,l=0,len(nums)-1
-        for i,j in zip(range(n),range(n-1,-1,-1)):
-            if nums[i]<pivot:
-                ans[sl]=nums[i]
-                sl+=1
-            if nums[j]>pivot:
-                ans[l]=nums[j]
-                l-=1
-        while sl<=l:
-            ans[sl]=pivot
-            sl+=1
-        return ans
+        '''
+        I can create an empty array of the same size as original array
+        '''
+        partition_array = [float('-inf')] * len(nums)
+        count_pivot = 0
+        start_indx, end_indx = 0, len(partition_array)-1
+        '''
+        first pass
+        '''
+        for i in range(len(nums)):
+            if nums[i] < pivot:
+                partition_array[start_indx] = nums[i]
+                start_indx += 1
+        for i in range(len(nums)-1,-1,-1):
+            if nums[i] > pivot:
+                partition_array[end_indx] = nums[i]
+                end_indx -= 1
+        for i in range(len(partition_array)):
+            if partition_array[i] == float('-inf'):
+                partition_array[i] = pivot
+        return partition_array
