@@ -122,6 +122,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0408-valid-word-abbreviation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0408-valid-word-abbreviation) |
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
@@ -165,6 +166,7 @@
 | [0006-zigzag-conversion](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
+| [0408-valid-word-abbreviation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0408-valid-word-abbreviation) |
 | [0551-student-attendance-record-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0812-rotate-string) |
