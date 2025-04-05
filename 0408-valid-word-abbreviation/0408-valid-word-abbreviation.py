@@ -16,7 +16,6 @@ class Solution:
                 else:
                     cnt = ''
                     while (abbr[p1] < 'a') and (p1<len(abbr)):
-                        print(abbr[p1])
                         cnt += abbr[p1]
                         p1 += 1
                         if p1 >= len(abbr):
