@@ -1,6 +1,3 @@
-import heapq
-from typing import List
-
 class Solution:
     def minLengthAfterRemovals(self, nums: List[int]) -> int:
         i, j = 0, (len(nums) + 1)//2
