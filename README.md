@@ -89,6 +89,7 @@
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -130,6 +131,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -270,6 +273,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
 ## Sliding Window
 |  |
@@ -298,6 +302,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3643-zero-array-transformation-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
@@ -519,6 +524,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0011-container-with-most-water) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
