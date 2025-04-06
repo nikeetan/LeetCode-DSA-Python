@@ -119,6 +119,7 @@
 | [0088-merge-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
@@ -200,6 +201,7 @@
 | [0009-palindrome-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
@@ -226,6 +228,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
