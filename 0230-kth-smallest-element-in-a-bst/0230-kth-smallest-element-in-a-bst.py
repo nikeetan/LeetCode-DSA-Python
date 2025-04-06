@@ -5,13 +5,25 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def inorder (self, root):
-        if root is None:
-            return []
-        else:
-            left = self.inorder(root.left)
-            right = self.inorder(root.right)
-            return left + [root.val] + right
+    # def inorder (self, root):
+    #     if root is None:
+    #         return []
+    #     else:
+    #         left = self.inorder(root.left)
+    #         right = self.inorder(root.right)
+    #         return left + [root.val] + right
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        smallest_ele = self.inorder(root)
-        return smallest_ele[k-1]
+        # smallest_ele = self.inorder(root)
+        curr = root
+        stack = []
+        n = 0
+        while curr or stack:
+            while curr:
+                stack.append(curr)
+                curr = curr.left
+            curr = stack.pop()
+            n += 1
+            if n == k:
+                return curr.val
+            curr = curr.right
+            
