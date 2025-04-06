@@ -435,6 +435,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
@@ -460,6 +461,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -480,6 +482,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0112-path-sum) |
@@ -509,6 +512,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
