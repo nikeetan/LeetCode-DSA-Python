@@ -9,23 +9,13 @@ class Solution:
         if head is None:
             return head
         else:
-            temp = head
-            length = 0
-            while temp is not None:
-                length += 1
-                temp = temp.next
-            indx = k - 1
-            curr_cnt = 0
-            end_indx = length - k
-            temp = head
-            first_pointer , second_pointer = None , None
-            temp = head
-            while temp is not None:
-                if curr_cnt == indx:
-                    first_pointer = temp
-                if curr_cnt == end_indx:
-                    second_pointer = temp
-                temp = temp.next
-                curr_cnt += 1
-            first_pointer.val, second_pointer.val = second_pointer.val, first_pointer.val
+            fp = head
+            sp = head
+            for i in range(k - 1):
+                fp = fp.next
+            first_swap = fp
+            while fp.next is not None:
+                fp = fp.next
+                sp = sp.next
+            first_swap.val , sp.val = sp.val , first_swap.val
         return head
