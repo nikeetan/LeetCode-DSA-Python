@@ -9,13 +9,18 @@ class Solution:
         if head is None:
             return head
         else:
+            cnt = 1
             fp = head
-            sp = head
-            for i in range(k - 1):
+            sp = None
+            first_node = None
+            while fp is not None:
+                if sp is not None:
+                    sp = sp.next
+                if cnt == k:
+                    first_node = fp
+                    sp = head
+                cnt += 1
                 fp = fp.next
-            first_swap = fp
-            while fp.next is not None:
-                fp = fp.next
-                sp = sp.next
-            first_swap.val , sp.val = sp.val , first_swap.val
-        return head
+            if sp:
+                first_node.val, sp.val = sp.val, first_node.val
+            return head
