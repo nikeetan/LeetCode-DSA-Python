@@ -43,6 +43,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
@@ -538,6 +539,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0330-patching-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
