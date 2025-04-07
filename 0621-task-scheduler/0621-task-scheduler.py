@@ -12,7 +12,7 @@ class Solution:
         
 
         part_count = max_val - 1
-        space = (n - (max_count - 1) ) * part_count
+        space = (n - (max_count - 1)) * part_count
         available_tasks = len(tasks) - (max_val * max_count)
         idle = max(0, space - available_tasks)
         return len(tasks) + idle
