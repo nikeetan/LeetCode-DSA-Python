@@ -2,25 +2,15 @@ import heapq
 class KthLargest:
     def __init__(self, k: int, nums: List[int]):
         self.k = k
-        self.nums = sorted(nums)
-
-    def find_pos(self,val):
-        left , right = 0, len(self.nums) -1
-        while left <= right:
-            mid = left + (right - left )//2
-            if self.nums[mid] == val:
-                return mid
-            elif self.nums[mid] < val:
-                left = mid + 1 
-            else:
-                right = mid - 1
-        return left
-        
-
+        self.min_heap  = []
+        for num in nums:
+            self.add(num)        
     def add(self, val: int) -> int:
-        self.nums.insert(self.find_pos(val),val)
-        return self.nums[-self.k]
-
+        if (len(self.min_heap) < self.k) or (self.min_heap[0]<val):
+            heapq.heappush(self.min_heap , val)
+            if len(self.min_heap) > self.k:
+                heapq.heappop(self.min_heap)
+        return self.min_heap[0]
 
 # Your KthLargest object will be instantiated and called as such:
 # obj = KthLargest(k, nums)
