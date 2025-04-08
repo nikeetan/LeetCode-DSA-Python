@@ -46,7 +46,6 @@ class Solution:
                     result += raw_value[i]
                     i += 1
             resolved_map[symbol] = result
-            print(resolved_map)
 
         i = 0
         final_result = ""
