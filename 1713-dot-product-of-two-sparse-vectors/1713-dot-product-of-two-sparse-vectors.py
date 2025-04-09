@@ -11,11 +11,19 @@ class SparseVector:
             return 0
         else:
             prod = 0
-            for i in self.vec1:
+            
+            if len(self.vec1) < len(vec.vec1):
+                traverse = self.vec1
+            else:
+                traverse = vec.vec1
+                vec.vec1 = self.vec1
+
+            for i in traverse:
                 if i in vec.vec1:
-                    prod += self.vec1[i] * vec.vec1[i]
+                    prod += traverse[i] * vec.vec1[i]
             return prod
-        
+            
+
 
 # Your SparseVector object will be instantiated and called as such:
 # v1 = SparseVector(nums1)
