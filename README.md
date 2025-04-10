@@ -35,6 +35,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
@@ -339,6 +340,7 @@
 | [0053-maximum-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
