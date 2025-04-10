@@ -352,6 +352,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
@@ -477,6 +478,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -664,6 +666,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0969-number-of-recent-calls) |
 ## Union Find
 |  |
