@@ -9,7 +9,6 @@ class Solution:
             return image
 
         def dfs (r, c):
-            print(r, c)
             if image[r][c] == startcolor:
                 image[r][c] = color
 
