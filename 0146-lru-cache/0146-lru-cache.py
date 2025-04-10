@@ -15,12 +15,50 @@ the least will be 1 and when i pop that i will take o(1)
 and when i insert i insert at the 0th position so put takes o(1)
 
 '''
-from collections import OrderedDict
+
+
+class OrderedDict:
+    def __init__(self):
+        self.store = {}
+        self.order = []
+    
+    def move_to_end(self, key):
+        if key not in self.order:
+            return -1
+        else:
+            self.order.remove(key)
+            self.order.append(key)
+    def popitem(self, last):
+        if last:
+            key = self.order.pop()
+        else:
+            key = self.order.pop(0)
+        self.store.pop(key)
+    
+    def __len__ (self):
+        return len(self.store)
+    
+    def __contains__ (self, key):
+        return key in self.store
+
+    def __getitem__(self, key):
+        if key in self.store:
+            return self.store[key]
+        else:
+            return -1
+    
+    def __setitem__(self, key, value):
+        if key not in self.store:
+            self.order.append(key)
+        self.store[key] = value
+
+
 class LRUCache:
 
     def __init__(self, capacity: int):
         self.lru = OrderedDict()
         self.capacity = capacity
+    
 
     def get(self, key: int) -> int:
         if key in self.lru:
