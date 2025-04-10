@@ -479,6 +479,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
@@ -513,6 +514,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -534,6 +536,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0226-invert-binary-tree) |
@@ -580,6 +583,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
