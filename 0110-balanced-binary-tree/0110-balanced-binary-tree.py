@@ -22,6 +22,6 @@ class Solution:
                 return -1 
             return 1 + max(left, right)
         
-        return False if dfs(root) == -1 else True
+        return dfs(root) != -1
         
     
