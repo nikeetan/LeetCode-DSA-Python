@@ -1,29 +1,77 @@
+'''
+top = 0 left = 0                    right = len(rows[0])
+
+
+edge cases where in i have 1 single row
+0  1   2
+top += 1 
+
+if top< bottom:
+    then only we will proceed
+
+top = 0 
+left = 0
+
+9
+
+8
+
+7
+
+# Traverse will be left to right and after that from top to bottom we will check
+right -= 1
+if left <= right:
+else breal
+
+bottom = len(matrix)
+
+left  right top bottom right - 
+1  2  
+check top < bottom
+from right we will traverse till bottom - 
+3  6   
+
+right -= 1
+
+if left < right
+
+
+'''
+
 class Solution:
+
+    
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        top,left=0,0
-        bottom,right=len(matrix)-1,len(matrix[0])-1
-        to_return=[]
+        left , right = 0 , len(matrix[0]) # left = 0 right = 3
+        top , bottom = 0 , len(matrix)  # top = 0 bottom = 3
+        res = []                        # []
+        
+        ## Traversal
+        while top < bottom and left < right:  
+            
+            ## Traversing from left to right
+            for i in range(left , right):   
+                res.append(matrix[left][i])     
+            top += 1                              
+            if top >= bottom:
+                break
+            ## Traversing fro top to bottom.
+            for j in range(top , bottom):
+                res.append( matrix[j][right - 1])     
+            right -= 1                          
+            if left >= right:                   
+                break
+            ## Traverse right to left               
+            for k in range (right - 1, left, - 1):
+                res.append(matrix[bottom - 1][k])   
+            bottom -= 1                         
 
-        while top<=bottom and left<=right:
-            print(top,bottom,left,right)
-            print(to_return)
-            for i in range(left,right+1):
-                to_return.append(matrix[top][i])
-            top+=1
-            for j in range(top,bottom+1):
-                to_return.append(matrix[j][right])
-            print(to_return)
-            right-=1
-            if right>=left and top<=bottom:
-                for j in range(right,left-1,-1):
-                    to_return.append(matrix[bottom][j])
-                bottom-=1
-                for j in range(bottom,top-1,-1):
-                    to_return.append(matrix[j][left])
-                left+=1           
-        return to_return
-
+            ## Traverse from bottom to top
+            for l in range(bottom, top - 1, -1):       
+                res.append(matrix[l][left])     
+            left += 1                           
+        return res
 
             
-            
+
 
