@@ -20,7 +20,7 @@ class Solution:
 
             if abs(left - right) > 1:
                 return -1 
-            return 1 + max(dfs(root.left), dfs(root.right))   
+            return 1 + max(left, right)
         
         return False if dfs(root) == -1 else True
         
