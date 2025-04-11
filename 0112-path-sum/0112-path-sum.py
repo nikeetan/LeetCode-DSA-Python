@@ -12,11 +12,5 @@ class Solution:
         if root is None:
             return False
         if ((root.left is None) and (root.right is None)):
-            if targetSum == root.val:
-                return True
-            return False
-        
-        left = self.hasPathSum(root.left, targetSum - root.val)
-        right = self.hasPathSum(root.right, targetSum - root.val)
-        return left or right
-       
+            return targetSum - root.val == 0
+        return self.hasPathSum(root.left, targetSum - root.val) or self.hasPathSum(root.right, targetSum - root.val)
