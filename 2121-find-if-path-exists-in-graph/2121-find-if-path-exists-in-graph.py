@@ -13,7 +13,8 @@ class Solution:
         # Bfs queue holding the start node
         queue = deque([source])
         # Visted to track of visited nodes from the source
-        visited = set()
+        visited = [False] * n
+        visited[source] = True
         # Taversal
         # Approach is whenver in a visited i have my destination then the path exists
         while queue:
@@ -21,11 +22,11 @@ class Solution:
             if node == destination:
                 return True
 
-            visited.add(node)
-
             for neighbour in adj.get(node, []):
-                if neighbour not in visited:
+                if not visited[neighbour]:
                     queue.append(neighbour)
+                    visited[neighbour] = True
+
         return False
 
 
