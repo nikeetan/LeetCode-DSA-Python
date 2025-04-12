@@ -9,26 +9,17 @@ class Solution:
                 adj[n2] = []
             adj[n1].append(n2)
             adj[n2].append(n1)
-        
-        # Bfs queue holding the start node
-        queue = deque([source])
-        # Visted to track of visited nodes from the source
+
         visited = [False] * n
         visited[source] = True
-        # Taversal
-        # Approach is whenver in a visited i have my destination then the path exists
-        while queue:
-            node = queue.popleft()
-            if node == destination:
-                return True
-
-            for neighbour in adj.get(node, []):
+        def dfs (curr_node):
+            if curr_node == destination:
+                return True                                     
+            visited[curr_node] = True
+            for neighbour in adj[curr_node]:
                 if not visited[neighbour]:
-                    queue.append(neighbour)
-                    visited[neighbour] = True
-
-        return False
-
-
-
-
+                    if dfs(neighbour):
+                        return True        
+            return False
+        return dfs(source)
+                                                    
