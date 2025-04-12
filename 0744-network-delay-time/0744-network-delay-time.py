@@ -27,9 +27,3 @@ class Solution:
             return max(min_times.values())
         else:
             return -1
-
-                
-
-
-    
-        return 0 
