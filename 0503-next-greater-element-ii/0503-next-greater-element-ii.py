@@ -10,32 +10,21 @@ class Solution:
         '''
         first pass
         '''
-        indx = len(nums) - 1
+        indx = (len(nums) - 1) * 2
         stack = []
         res = [-1] * len(nums)
 
         # pass 1                    [1, 2, 1]
         while indx >= 0:                # 0        
-
-            while stack and nums[indx] >= stack[-1]: # [2] 1 > 2
+            curr_ind = indx % len(nums)
+            while stack and nums[curr_ind] >= stack[-1]: # [2] 1 > 2
                 stack.pop()
             
             if stack:                   
-                res[indx] = stack[-1]           #[2, -1, -1]
-            stack.append(nums[indx])            #[2, 1]        
+                res[curr_ind] = stack[-1]           #[2, -1, -1]
+            stack.append(nums[curr_ind])            #[2, 1]        
             indx -= 1
 
-        # pass 2
-        indx = len(nums) - 1                # 1
-        while indx >= 0:                    # 2 > 0
-
-            while stack and nums[indx] >= stack[-1]:  # [2] 
-                stack.pop()                             
-            
-            if stack:                           
-                res[indx] = stack[-1]           #[2, -1 , 2]
-            stack.append(nums[indx])            #[2, 1]
-            indx -= 1
         return res
         
                 
