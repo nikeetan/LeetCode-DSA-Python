@@ -15,21 +15,17 @@ class Solution:
     def constructMaximumBinaryTree(self, nums: List[int]) -> Optional[TreeNode]:
         '''
         find the maximum and get the index
+        if i am the first maximum then we will insert to my left
         '''
-        if not nums:
-            return None
-        else:   
-            indx = -1
-            ans = -1
-            for i in range(len(nums)):
-                if ans < nums[i]:
-                    ans = nums[i]
-                    indx = i
+        stack = []
+        for num in nums:
+            node = TreeNode(num)                #  5
+            while stack and num > stack[-1].val :   # 0 -> 5
+                node.left = stack.pop()
             
-            root = TreeNode(ans)
-            root.left = self.constructMaximumBinaryTree(nums[0 : indx])
-            root.right = self.constructMaximumBinaryTree(nums[indx+1 : ])
-            return root
-
-
+            if stack:                           #[6]
+                stack[-1].right = node          #  3->2->1    6 -> 5 left 0
+            stack.append(node)                  # [6, 0]
+        return stack[0]
+            
         
