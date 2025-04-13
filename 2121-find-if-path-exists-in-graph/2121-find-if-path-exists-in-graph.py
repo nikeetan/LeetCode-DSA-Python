@@ -32,36 +32,17 @@ class Solution:
             adj[u].append(v)                    #{ 0 :[1, 2] , 1:[2], 2:[0]}
             adj[v].append(u)
         
-        
-        # queue for traversal
-        queue = deque([source])                 # queue = [0]
-
-        #visited set    
-        visited = set()                         # []
-                                                # destination = 2
-        while queue:                            # queue = [0] , [1, 2] , [2, 2], [2]
-            node = queue.popleft()              # node = 2 , queue = [2]
-            # Adding the node is visited
-            if node in visited:                 #2 in [0, 1, 2]
-                continue
-            else:
-                visited.add(node)                   # [0, 1, 2]              
-                if node == destination:             # 3 == 2
-                    return True                     # True
-                for neighbour in adj.get(node, []):   #[ 0 ]          
-                    if neighbour not in visited:       # 0 in  [0, 1, 2]
-                        queue.append(neighbour)        # queue = [ 2]
-                    
-        return False
-
-
-
-
-
-
-        
-
-
+        visited = set()
+        def dfs(node):
+            if node == destination:
+                return True
+            visited.add(node)
+            for neighbour in adj.get(node, []):
+                if neighbour not in visited:
+                    if dfs(neighbour):
+                        return True
+            return False
+        return dfs(source)
 
         # Adjacency matrix
         # adj = {}
