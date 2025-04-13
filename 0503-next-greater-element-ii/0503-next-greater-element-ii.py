@@ -7,16 +7,38 @@ i% len(nums) and (i + 1)% l
 
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
-        res = []
-        for i in range(len(nums)):    
-            flag = 0                  
-            for j in range(i+1 , (len(nums)+ (i+1))):   
-                if nums [ i% len(nums)] < nums [j % len(nums)]:
-                    res.append(nums[j%len(nums)])                  
-                    flag = 1 
-                    break
-            if flag == 0:
-                res.append(-1)
-        return res
+        '''
+        first pass
+        '''
+        indx = len(nums) - 1
+        stack = []
+        res = [-1] * len(nums)
 
+        # pass 1                    [1, 2, 1]
+        while indx >= 0:                # 0        
+
+            while stack and nums[indx] >= stack[-1]: # [2] 1 > 2
+                stack.pop()
+            
+            if stack:                   
+                res[indx] = stack[-1]           #[2, -1, -1]
+            stack.append(nums[indx])            #[2, 1]        
+            indx -= 1
+
+        # pass 2
+        indx = len(nums) - 1                # 1
+        while indx >= 0:                    # 2 > 0
+
+            while stack and nums[indx] >= stack[-1]:  # [2] 
+                stack.pop()                             
+            
+            if stack:                           
+                res[indx] = stack[-1]           #[2, -1 , 2]
+            stack.append(nums[indx])            #[2, 1]
+            indx -= 1
+        return res
         
+                
+                
+
+
