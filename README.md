@@ -271,6 +271,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -374,6 +375,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
 | [2434-design-a-number-container-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2434-design-a-number-container-system) |
 ## Prefix Sum
 |  |
@@ -554,6 +556,7 @@
 | [0904-leaf-similar-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -588,6 +591,7 @@
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0904-leaf-similar-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0904-leaf-similar-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
