@@ -8,8 +8,8 @@
 class Solution:
     def calculate(self, s: str) -> int:
         # Initialize stack
-        
-        stk = []
+        res = 0
+        last_num = 0
         operation = "+"
         curr_num = 0
         curr_char = ""
@@ -17,19 +17,29 @@ class Solution:
         s = s.replace(" ", "")
         while indx < len(s):
             curr_char = s[indx]
-            if curr_char.isdigit():
-                curr_num = curr_num * 10 + int(curr_char)
 
-            if not(curr_char.isdigit()) or indx == len(s) - 1:
+            if curr_char.isdigit():
+                curr_num = curr_num * 10 + int(curr_char) # 2
+            
+            if not curr_char.isdigit() or indx == len(s) - 1:
+
                 if operation == '+':
-                    stk.append(curr_num)
+                    res += last_num             # 3
+                    last_num = curr_num
+
                 if operation == '-':
-                    stk.append(- curr_num)
-                if operation == '*':
-                    stk.append(stk.pop() * curr_num)
+                    res += last_num
+                    last_num = -1 * curr_num        # - 2
+                
+                if operation == '*':                    
+                    last_num = last_num * curr_num    # - 4
+                
                 if operation == '/':
-                    stk.append(int (stk.pop() / curr_num))
-                operation = curr_char
-                curr_num = 0
+                    last_num = int(last_num / curr_num)
+
+                operation = curr_char  # *
+                curr_num = 0           # 0 
             indx += 1
-        return sum(stk)
+        return res + last_num
+
+
