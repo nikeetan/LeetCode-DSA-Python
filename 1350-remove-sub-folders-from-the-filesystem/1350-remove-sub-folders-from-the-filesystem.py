@@ -1,33 +1,24 @@
-class TrieNode:
-    def __init__(self):
-        self.children = {}
-        self.flag = False
-
 class Solution:
     def removeSubfolders(self, folder: List[str]) -> List[str]:
-
-        head = TrieNode()
-    
-        for path in folder:
-            node = head
-            paths = path.split("/")[1:]
-
-            for part in paths:
-                if part not in node.children:
-                    node.children[part] = TrieNode()
-                node = node.children[part]
-            node.flag = True
-        
+        folder_set = set(folder)
         res = []
-        def dfs(root, folder):
-            if root.flag:
-                res.append('/' + '/'.join(folder))
-                return
-            for path, child in root.children.items():
-                dfs(child, folder + [path])    
-        dfs(head, [])
-        return res
 
+        for f in folder:
+            is_sub = False
+            prefix = f
 
+            while prefix and (not(is_sub)):
                 
+                print("Before",prefix)
+                pos = prefix.rfind("/")
+                
+                prefix = prefix[0 : pos]
+                print("After",prefix)
+    
+                if prefix in folder_set:
+                    is_sub = True
 
+            if is_sub == False:
+                res.append(f)
+            
+        return res
