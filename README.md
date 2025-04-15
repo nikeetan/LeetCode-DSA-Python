@@ -459,6 +459,7 @@
 | [0207-course-schedule](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0210-course-schedule-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
@@ -607,6 +608,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0545-boundary-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0687-longest-univalue-path) |
@@ -640,6 +642,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
@@ -771,6 +774,7 @@
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
