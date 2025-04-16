@@ -481,6 +481,7 @@
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -561,6 +562,7 @@
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0047-permutations-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
@@ -641,6 +643,7 @@
 | [0687-longest-univalue-path](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [0904-leaf-similar-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0904-leaf-similar-trees) |
 | [1308-smallest-string-with-swaps](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -676,6 +679,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
 | [1308-smallest-string-with-swaps](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1308-smallest-string-with-swaps) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
