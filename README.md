@@ -90,6 +90,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -150,6 +151,7 @@
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
@@ -173,6 +175,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
@@ -355,6 +358,7 @@
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1023-time-based-key-value-store) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
