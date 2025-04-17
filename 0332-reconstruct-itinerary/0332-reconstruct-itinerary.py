@@ -7,12 +7,12 @@ class Solution:
             adj[src].append(dst)
             
         start = 'JFK'
-        #using minheap
         res = []
-
+      
         def dfs(node):
             while adj[node]:
                 dfs(adj[node].pop())
             res.append(node)
         dfs(start)
         return res[::-1]
+            
