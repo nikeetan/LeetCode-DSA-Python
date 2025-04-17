@@ -478,6 +478,7 @@
 | [0210-course-schedule-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
@@ -631,6 +632,7 @@
 | [0261-graph-valid-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0332-reconstruct-itinerary) |
 | [0366-find-leaves-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0366-find-leaves-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
@@ -845,4 +847,8 @@
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
