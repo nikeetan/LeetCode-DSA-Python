@@ -200,6 +200,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
@@ -563,6 +564,7 @@
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0047-permutations-ii) |
+| [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -590,6 +592,7 @@
 | [0226-invert-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
@@ -629,6 +632,7 @@
 | [0226-invert-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -713,6 +717,7 @@
 | [0226-invert-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
