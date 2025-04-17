@@ -12,11 +12,12 @@ class Solution:
             if node is None:
                 return None
             path.append(str(node.val))
-            if (node.left is None) and (node.right is None):
+            left = dfs(node.left)
+            right = dfs(node.right)
+            if (left is None) and (right is None):
                 res.append('->'.join(path))
-            dfs(node.left)
-            dfs(node.right)
             path.pop()
+            return node.val
             
         dfs(root)
         print(res)
