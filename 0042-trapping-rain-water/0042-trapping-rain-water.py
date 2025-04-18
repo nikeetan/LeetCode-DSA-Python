@@ -1,5 +1,26 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
+        # Two pointer is will check whichever is maximum will fix one pointer at that pos
+        # After that we will move the left pointer or right pointer accordingly to the maximum
+        # so here we will compute the res total by only sub tracting the curr_height with minimum with the 
+        left, right = 0, len(height) - 1
+        max_left, max_right = height[left], height[right]
+        ans = 0
+        while left < right:
+            if max_left < max_right:
+                left += 1
+                max_left = max(max_left, height[left])
+                ans += max_left - height[left]
+            else:
+                right -= 1
+                max_right = max(height[right], max_right)
+                ans += max_right - height[right]  
+        return ans
+
+        '''
+        basic
+        '''
+        '''
         # For finding the left maximum
         
         left = 0 
@@ -15,8 +36,7 @@ class Solution:
             max_right[i] = right
             right = max(right, height[i])
 
-        # finding the leftmax, rightmax
-        print(max_left, max_right)
+
         #finding the result traversing the normal array
         res = 0
         for i in range(len(height)):
@@ -24,4 +44,5 @@ class Solution:
             if water_stored > 0:
                 res += water_stored
         return res
+        '''
 
