@@ -24,6 +24,7 @@
 | [0015-3sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
@@ -135,6 +136,7 @@
 | [0015-3sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
@@ -376,6 +378,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
@@ -542,6 +545,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0144-binary-tree-preorder-traversal) |
@@ -562,6 +566,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
