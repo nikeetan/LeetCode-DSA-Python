@@ -42,6 +42,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
@@ -207,6 +208,7 @@
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
+| [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
@@ -489,6 +491,7 @@
 | [0207-course-schedule](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
@@ -654,6 +657,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0332-reconstruct-itinerary) |
@@ -698,6 +702,7 @@
 | [0210-course-schedule-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -860,6 +865,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
 ## Trie
 |  |
