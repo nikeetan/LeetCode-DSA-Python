@@ -504,6 +504,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1706-min-cost-to-connect-all-points) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3189-find-champion-ii) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
@@ -682,6 +683,7 @@
 | [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2121-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2439-longest-cycle-in-a-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
@@ -721,6 +723,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1308-smallest-string-with-swaps) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
@@ -866,6 +869,7 @@
 | [0207-course-schedule](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
+| [2439-longest-cycle-in-a-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2439-longest-cycle-in-a-graph) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
 ## Trie
 |  |
