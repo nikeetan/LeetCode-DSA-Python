@@ -204,6 +204,7 @@
 | [0020-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0227-basic-calculator-ii) |
@@ -278,6 +279,7 @@
 | [0049-group-anagrams](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
@@ -698,6 +700,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
