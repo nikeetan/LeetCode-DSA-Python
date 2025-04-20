@@ -61,7 +61,6 @@ class Solution:
         
         # check bs works and needs any improvements
         intervals.insert(left, newInterval)
-        print(intervals)
         # now adding one by one
         for interval in intervals:
             
