@@ -14,7 +14,6 @@ class Solution:
                 breadth = (p2 - p1)
                 p2 -= 1  
             area = max(area, length * breadth)
-            print(area)
         return area
 
 
