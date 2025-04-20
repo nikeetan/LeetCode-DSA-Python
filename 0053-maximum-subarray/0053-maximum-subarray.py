@@ -19,11 +19,64 @@ for i in range(len(nums)):
     ans = max(ans , curr)   
 '''
 
+
+'''
+
+maxi = -infc
+curr_sum = 0
+[-2,1,-3,4,-1,2,1,-5,4]
+
+Itr1 
+curr_sum = -2
+maxi = (-inf, -2) 
+
+Itr2
+curr_sum = -1
+maxi = (-2, -1)
+
+Itr3
+curr_sum = -4
+maxi = (-1, -4)
+
+Itr4
+curr_sum = 0
+maxi = (-1, 0)
+
+Itr5
+curr_sum = -1
+maxi = (0, -1)
+
+Itr6
+curr_sum = 1
+maxi = (0, 1)
+
+Itr7
+curr_sum = 2
+maxi = (1, 2)
+
+Itr8
+curr_sum = -3
+maxi = (2, -3)
+
+Itr9
+curr_sum = 6
+maxi = (2, 6)
+
+
+
+o(n)
+o(1)
+'''
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        ans = float('-inf')          
-        curr_sum = 0                    
-        for i in range(len(nums)):    
-            curr_sum = max(nums[i], nums[i]+curr_sum)
-            ans = max(ans , curr_sum) 
-        return ans  
+        maxi = float('-inf')
+        curr_sum = 0
+        for curr_num in nums:
+            curr_sum += curr_num            
+            curr_sum = max(curr_num, curr_sum)
+            maxi = max(maxi, curr_sum)
+            print(curr_sum)
+        return maxi
+
+
+
