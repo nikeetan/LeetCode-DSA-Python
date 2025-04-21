@@ -101,6 +101,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -390,6 +391,7 @@
 | [1023-time-based-key-value-store](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
