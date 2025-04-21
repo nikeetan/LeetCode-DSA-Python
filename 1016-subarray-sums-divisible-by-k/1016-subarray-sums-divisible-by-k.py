@@ -5,7 +5,7 @@ class Solution:
         count=0
         for i in nums:
             ps+=i
-            remainder=(ps%k+k)%k
+            remainder=(ps%k)
             if remainder in ps_map:
                 count+=ps_map[remainder]
                 ps_map[remainder]+=1
