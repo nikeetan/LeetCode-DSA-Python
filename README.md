@@ -29,6 +29,7 @@
 | [0042-trapping-rain-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0054-spiral-matrix) |
@@ -260,6 +261,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
@@ -449,6 +451,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0079-word-search) |
