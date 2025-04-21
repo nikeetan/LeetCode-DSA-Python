@@ -16,7 +16,7 @@ class Solution:
                 nums[p1], nums[p2] = nums[p2], nums[p1]
                 p1 += 1
                 p2 -= 1
-            print(nums)
+
         else:            
             # find the element which is just greater than the breakpoint and swap
             for i in range(len(nums)-1, -1, -1):
@@ -25,7 +25,6 @@ class Solution:
                     break
             
             # Rearrange
-            print("break_indx", break_indx)
             if break_indx != -1:
                 p1, p2 = break_indx + 1, len(nums) - 1
                 while p1 < p2:
