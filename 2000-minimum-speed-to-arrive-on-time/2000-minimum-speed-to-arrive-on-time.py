@@ -13,7 +13,7 @@ class Solution:
                 return True
             else:
                 return False
-        l, r = 1, 1000000000
+        l, r = 1, 10000000
         ans = -1
         while l <= r:
             mid = l + (r - l)//2
