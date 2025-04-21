@@ -3,11 +3,18 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        new_matrix = [[row[i] for row in matrix] for i in range(len(matrix[0]))]
-        new_matrix = [row[::-1] for row in new_matrix]
         for i in range(len(matrix)):
-            for j in range(len(matrix[0])):
-                matrix[i][j] = new_matrix[i][j]
+            for j in range(i + 1, len(matrix[0])):
+                matrix[j][i], matrix[i][j] = matrix[i][j], matrix[j][i]
+        
+
+        for i in range(len(matrix)):
+            p1 , p2 = 0 , len(matrix[i]) - 1
+            while p1 < p2:
+                matrix[i][p1] , matrix[i][p2] = matrix[i][p2], matrix[i][p1]
+                p1 += 1
+                p2 -= 1
+
 
 
         
