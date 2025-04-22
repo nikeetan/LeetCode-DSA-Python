@@ -17,7 +17,7 @@ class Solution:
         curr = root
         stack = []
         n = 0
-        while curr or stack:
+        while True:
             while curr:
                 stack.append(curr)
                 curr = curr.left
@@ -25,5 +25,8 @@ class Solution:
             n += 1
             if n == k:
                 return curr.val
-            curr = curr.right
-            
+            if curr.right:
+                curr = curr.right
+            else:
+                curr = None
+            #return 1
