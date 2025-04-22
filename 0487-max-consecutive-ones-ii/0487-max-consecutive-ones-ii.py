@@ -23,10 +23,7 @@ class Solution:
                         if nums[left] == 0:
                             zero_count -= 1
                         left += 1
-            if zero_count > 1:
-                maxi = max(maxi, (right -  left))
-            else:
-                maxi = max(maxi , (right - left + 1))   
+            maxi = max(maxi , (right - left + 1))   
             return maxi
         else:
             return 0
