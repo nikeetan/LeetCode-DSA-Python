@@ -57,6 +57,7 @@
 | [0303-range-sum-query-immutable](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0330-patching-array) |
+| [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
@@ -191,6 +192,7 @@
 | [0242-valid-anagram](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
@@ -313,6 +315,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
@@ -363,6 +366,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -562,6 +566,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
@@ -849,12 +854,14 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
 |  |
 | ------- |
@@ -961,4 +968,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0332-reconstruct-itinerary) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
