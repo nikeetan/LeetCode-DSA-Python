@@ -11,5 +11,4 @@ class Solution:
         for i in unique_chars:
             if word_count[ord(i) - ord('a')] > 0:
                 return False
-        print(word_count)
         return True
