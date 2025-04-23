@@ -16,16 +16,17 @@ class Solution:
         # return validate(root, None, None)
         prev = float('-inf')
         def inorder(root):
-            nonlocal prev 
             if root is None:
-                return True
-            if not inorder(root.left):
-                return False
-            if root.val <= prev:
-                return False
-            prev = root.val
-            return inorder(root.right)
-        return inorder(root)
+                return []
+            left = inorder(root.left)
+            node = [root.val]
+            right = inorder(root.right)
+            return left + node + right
+        values = inorder(root)
+        new_list = values.copy()
+        return sorted(set(new_list)) == values
+    
+
     
 
 
