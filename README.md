@@ -80,6 +80,7 @@
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
+| [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
@@ -198,6 +199,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
+| [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1308-smallest-string-with-swaps](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1308-smallest-string-with-swaps) |
@@ -287,6 +289,7 @@
 | [0492-construct-the-rectangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0492-construct-the-rectangle) |
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -575,6 +578,7 @@
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -860,11 +864,13 @@
 | [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 ## Interactive
 |  |
 | ------- |
@@ -977,4 +983,8 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
