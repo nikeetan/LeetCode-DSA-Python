@@ -281,6 +281,7 @@
 | [0002-add-two-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
@@ -436,6 +437,7 @@
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -924,6 +926,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
