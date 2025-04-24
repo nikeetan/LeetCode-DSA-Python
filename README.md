@@ -44,6 +44,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
@@ -232,6 +233,7 @@
 | [0076-minimum-window-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0227-basic-calculator-ii) |
@@ -315,6 +317,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
@@ -437,6 +440,7 @@
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -895,6 +899,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
@@ -958,6 +963,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Shortest Path
