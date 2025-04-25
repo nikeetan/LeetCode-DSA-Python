@@ -73,6 +73,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
+| [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0777-toeplitz-matrix) |
@@ -201,6 +202,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -248,6 +250,7 @@
 | [0409-longest-palindrome](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0409-longest-palindrome) |
 | [0551-student-attendance-record-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
@@ -337,6 +340,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -746,6 +750,7 @@
 | [0572-subtree-of-another-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0687-longest-univalue-path) |
+| [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -790,6 +795,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -946,6 +952,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
