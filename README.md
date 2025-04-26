@@ -289,6 +289,7 @@
 | [0062-unique-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0227-basic-calculator-ii) |
@@ -446,6 +447,7 @@
 | [0053-maximum-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -670,6 +672,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0100-same-tree) |
@@ -819,6 +822,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0100-same-tree) |
@@ -896,6 +900,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
