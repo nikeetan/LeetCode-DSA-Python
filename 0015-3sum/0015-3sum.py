@@ -6,6 +6,8 @@ class Solution:
         for p1 in range(len(nums) - 2):
             if p1 > 0 and nums[p1] == nums[p1 - 1]:
                 continue
+            if nums[p1] > 0:
+                break
             p2 = p1 + 1
             p3 = len(nums) - 1
             while p2 < p3:
