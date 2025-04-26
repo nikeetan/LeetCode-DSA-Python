@@ -22,18 +22,3 @@ class Solution:
                 else:
                     p3 -= 1
         return res
-'''
-nums = [-1,0,1,2,-1,-4] 
-
-nums = [ -4, -1, -1 , 0 , 1, 2]   
-         p1  p2              p3
-             p1           p2
-                          p3
-                 p1       p2  
-                          p3
-                     p1   p2 p3    
-
-
-
-res = [[-1, -1, 2], 
-'''
