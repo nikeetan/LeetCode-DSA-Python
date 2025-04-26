@@ -1,20 +1,32 @@
 class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:                        
-        nums=sorted(nums)
-        curr=0
-        target=0
-        bl=set()
-        while curr<len(nums)-2:
-            low=curr+1
-            high=len(nums)-1
-            while low<high:
-                triplet_sum = nums[low]+nums[curr]+nums[high]
-                if triplet_sum == target:
-                    bl.add((nums[curr],nums[low],nums[high]))
-                    low+=1
-                elif triplet_sum<target:
-                    low+=1
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        nums = sorted(nums)
+        res = set()
+        target = 0
+        for p1 in range(len(nums) - 2):
+            p2 = p1 + 1
+            p3 = len(nums) - 1
+            while p2 < p3:
+                if (nums[p1] + nums[p2] + nums[p3]) == target:
+                    res.add((nums[p1], nums[p2], nums[p3]))
+                    p2 += 1 
+                elif nums[p2] + nums[p3] < (target - nums[p1]):
+                    p2 += 1
                 else:
-                    high-=1
-            curr+=1
-        return [list(item) for item in bl]
+                    p3 -= 1
+        return list(res)
+'''
+nums = [-1,0,1,2,-1,-4] 
+
+nums = [ -4, -1, -1 , 0 , 1, 2]   
+         p1  p2              p3
+             p1           p2
+                          p3
+                 p1       p2  
+                          p3
+                     p1   p2 p3    
+
+
+
+res = [[-1, -1, 2], 
+'''
