@@ -6,39 +6,24 @@
 #         self.right = right
 class Solution:
     def amountOfTime(self, root: Optional[TreeNode], start: int) -> int:
-        if root is None:
-            return 0
-        ## Lets find the parent of each node and also find the start where the disease spreading start from
-        parent = {}
-        queue = deque([root])
-        start_node = None
-        while queue:
-            current_node = queue.popleft()
-            if start == current_node.val:
-                start_node = current_node
-            if current_node.left:
-                parent[current_node.left] = current_node
-                queue.append(current_node.left)
-            if current_node.right:
-                parent[current_node.right] = current_node
-                queue.append(current_node.right)
-        if start_node is None:
-            return 0
-        
-        # Now applying bfs
-        visited = set()
-        queue = deque([start_node])
-        time =-1
-        while queue:
-            level = len(queue)
-            time+=1
-            for _ in range(level):
-                current_node = queue.popleft()
-                visited.add(current_node)
-                if current_node in parent and parent[current_node] not in visited:
-                    queue.append(parent[current_node])
-                if current_node.left and current_node.left not in visited:
-                    queue.append(current_node.left)
-                if current_node.right and current_node.right not in visited:
-                    queue.append(current_node.right)
-        return time
+        self.maxTime = 0
+        def helper(root):
+            if root is None:
+                return -1, 0
+            
+            left_dist, left = helper(root.left)
+            right_dist, right = helper(root.right)
+
+            if root.val == start:
+                self.maxTime = max(left, right)
+                return 0, 1 + max(left, right)
+            
+            if right_dist != -1:
+                self.maxTime = max(self.maxTime,  1 + right_dist + left)
+                return 1 + right_dist , 1 + max(left, right)
+            if left_dist != -1:
+                self.maxTime = max(self.maxTime, 1 + left_dist + right)
+                return 1 + left_dist, 1 + max(left , right)
+            return -1, 1 + max(left, right)
+        helper(root)
+        return self.maxTime
