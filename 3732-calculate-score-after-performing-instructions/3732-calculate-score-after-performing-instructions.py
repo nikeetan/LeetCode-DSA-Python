@@ -3,13 +3,13 @@ class Solution:
         
         indx = 0
         n = len(instructions)
-        visited = set()
+        visited = [False] * n
         score = 0
         while ((indx >=0 and indx < n)):
             # visited check
-            if indx in visited:
+            if visited[indx]:
                 break
-            visited.add(indx)
+            visited[indx] = True
             if instructions[indx] == "jump":
                 new_indx = values[indx] + indx
                 # self loop
