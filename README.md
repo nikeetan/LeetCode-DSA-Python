@@ -53,6 +53,7 @@
 | [0216-combination-sum-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0216-combination-sum-iii) |
 | [0220-contains-duplicate-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0271-encode-and-decode-strings) |
@@ -198,6 +199,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
