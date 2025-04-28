@@ -3,7 +3,6 @@ class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
         duration_heap = []
         intervals.sort()
-        meeting_room = 0
         # Now check for a current meeting start is there any room available which has completed
         for i in intervals:
 # checking my end time of the minimum duration meeting is lesser than the current start 
