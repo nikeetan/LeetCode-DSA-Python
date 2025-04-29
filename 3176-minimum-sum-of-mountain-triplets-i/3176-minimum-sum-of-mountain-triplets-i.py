@@ -1,14 +1,27 @@
 class Solution:
     def minimumSum(self, nums: List[int]) -> int:
-        mini = float('inf')
-        for i in range(len(nums) - 2):
-            for j in range(i + 1, len (nums) - 1):
-                for k in range(j + 1,len(nums)):
-                    if (nums[i] < nums[j]) and (nums[j] > nums[k]):
-                        trip_sum = nums[i] + nums[j] + nums[k]
-                        print(trip_sum)
-                        if trip_sum < mini:
-                            mini = trip_sum
-        return mini if mini != float('inf') else - 1
-                        
-                         
+        if len(nums) < 3:
+            return - 1
+    
+        mini, maxi = nums[0], nums[-1]
+        min_list, max_list  = [nums[0]], [nums[-1]]
+
+        for i in range(1, len(nums)):
+            if nums[i] < mini:
+                mini = nums[i]
+            min_list.append(mini)
+        
+        for i in range(len(nums) - 2, -1, -1):
+            if nums[i] < maxi:
+                maxi = nums[i]
+            max_list.insert(0, maxi)
+
+        mini_sum = float('inf')
+
+        for i in range(1, len(nums) - 1):
+            if min_list[i-1] < nums[i] > max_list[i + 1]:
+                mini_sum = min(mini_sum , (min_list[i-1]  + nums[i] + max_list[i + 1] ))
+
+        return -1 if mini_sum == float('inf') else mini_sum
+
+    
