@@ -101,6 +101,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1364-tuple-with-same-product) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -317,6 +318,7 @@
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
