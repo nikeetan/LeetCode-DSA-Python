@@ -140,6 +140,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -428,6 +429,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3463-alternating-groups-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
