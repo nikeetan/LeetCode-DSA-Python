@@ -77,6 +77,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0724-find-pivot-index) |
@@ -185,6 +186,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0658-find-k-closest-elements) |
 | [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
@@ -215,6 +217,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0588-design-in-memory-file-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
@@ -429,6 +432,7 @@
 | [0220-contains-duplicate-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0220-contains-duplicate-iii) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -450,6 +454,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1023-time-based-key-value-store) |
@@ -622,6 +627,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
