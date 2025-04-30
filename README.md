@@ -244,6 +244,7 @@
 | [0014-longest-common-prefix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0079-word-search) |
@@ -332,6 +333,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0076-minimum-window-substring) |
@@ -420,6 +422,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0220-contains-duplicate-iii) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
