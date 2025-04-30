@@ -5,7 +5,6 @@ class Solution:
             return arr
 
         l, r = 0, len(arr) - 1
-        ans = -1
         while l <= r:
             mid = l + (r - l)//2
             if arr[mid] >= x:
