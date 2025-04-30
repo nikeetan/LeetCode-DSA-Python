@@ -6,7 +6,6 @@ class Solution:
 
         l, r = 0, len(arr) - 1
         ans = -1
-        target= float('inf')
         while l <= r:
             mid = l + (r - l)//2
             if arr[mid] >= x:
@@ -14,7 +13,6 @@ class Solution:
             else:
                 l = mid + 1
         
-        print(l, r)
         # now lets do the sliding window
         l = l - 1
         r = l + 1
