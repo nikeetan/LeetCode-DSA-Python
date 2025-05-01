@@ -4,7 +4,7 @@ class Solution:
         '''
         if i can assign k tasks then can i assign k + 1 
         else can i assign k - 1
-        basically we do a bs where in the l = 0 , r = whichever is smaller
+        take smaller tasks and workers of larger capacity if the larger capacity workers can handle the smaller tasks then we will then we can increase the size to say  
         '''
         workers.sort()
         tasks.sort()
@@ -19,7 +19,15 @@ class Solution:
                 else:
                     if pills_left == 0:
                         return False
-                    indx = k_workers.bisect_left(tasks[i] - strength)
+                    l, r = 0 , len(k_workers) - 1
+                    indx = len(k_workers)
+                    while l <= r:
+                        mid = l + (r - l)//2
+                        if k_workers[mid] >= tasks[i] - strength:
+                            indx = mid
+                            r = mid - 1 
+                        else:
+                            l = mid + 1
                     if indx == len(k_workers):
                         return False
                     pills_left -= 1
@@ -33,7 +41,6 @@ class Solution:
             mid = l + (r - l)//2
             if can_assign(mid):
                 res = mid
-                # traversing what's the maximum i can assign
                 l = mid + 1
             else:
                 r = mid - 1
