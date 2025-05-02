@@ -26,15 +26,12 @@ class Solution:
                     insert_dir = False
                 else:
                     insert_dir = True
-                continue
             else:
                 if insert_dir:
-                    queue.append(curr_char)
+                    queue.appendleft(curr_char)
                 else:
-                    queue.insert(0, curr_char)
-        if not(insert_dir):
-            queue = list(queue)[::-1]
-        else:
-            queue = list(queue)
+                    queue.append(curr_char)
+        if insert_dir:
+            queue = reversed(queue)
         return ''.join(queue)
             
