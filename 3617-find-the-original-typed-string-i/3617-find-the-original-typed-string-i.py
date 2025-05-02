@@ -8,7 +8,6 @@ class Solution:
         for curr_char in word:
             if stack and stack[-1] == curr_char:
                 consecutive_cnt += 1
-                print(curr_char, consecutive_cnt)
             else:
                 if consecutive_cnt > 0:
                     total_cnt += (consecutive_cnt - 1)
