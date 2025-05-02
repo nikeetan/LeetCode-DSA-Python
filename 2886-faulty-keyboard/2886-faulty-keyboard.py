@@ -18,17 +18,23 @@ class Solution:
 
         # two pointers
         # convert string to list the movement we encounter the character "i" index will start from left = 0 , right = index - 1
-        s = list(s)
-        l, r = 0, 0
-        index = 0
-        while index < len(s):
-            if s[index] == 'i':
-                r = index - 1
-                l = 0
-                while l < r:
-                    s[l], s[r] = s[r], s[l]
-                    l += 1
-                    r -= 1
-                s[index] = ''
-            index += 1
-        return ''.join(s)
+        queue = deque()
+        insert_dir  =  False
+        for curr_char in s:
+            if curr_char == 'i':
+                if insert_dir:
+                    insert_dir = False
+                else:
+                    insert_dir = True
+                continue
+            else:
+                if insert_dir:
+                    queue.append(curr_char)
+                else:
+                    queue.insert(0, curr_char)
+        if not(insert_dir):
+            queue = list(queue)[::-1]
+        else:
+            queue = list(queue)
+        return ''.join(queue)
+            
