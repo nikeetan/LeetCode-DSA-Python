@@ -10,15 +10,20 @@ class Solution:
         """
         :type root: Optional[RopeTreeNode]
         """
-        s = ""
+        count = 0
+        res = ''
         def dfs(root):
+            nonlocal count, res
             if root is None:
-                s = ""
-                return s
-            left = dfs(root.left)
-            right = dfs(root.right)
-            return left + root.val + right
-        s = dfs(root)
-        return s[k -1]
+                return 
+            dfs(root.left)
+            for c in root.val:
+                count += 1
+                if count == k:
+                    res = c
+                    return 
+            dfs(root.right)
+        dfs(root)
+        return res
     
                 
