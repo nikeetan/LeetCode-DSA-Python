@@ -1,4 +1,4 @@
-from collections import Counter
+
 
 class Solution:
     def possibleStringCount(self, word: str) -> int:
@@ -11,8 +11,8 @@ class Solution:
             else:
                 if consecutive_cnt > 0:
                     total_cnt += (consecutive_cnt - 1)
-                consecutive_cnt = 1
                 stack.append(curr_char)
+                consecutive_cnt = 1
         if consecutive_cnt > 1:
             total_cnt += (consecutive_cnt - 1)
         return total_cnt + 1 
