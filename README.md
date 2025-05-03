@@ -366,6 +366,7 @@
 | [0383-ransom-note](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0409-longest-palindrome) |
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
@@ -511,6 +512,7 @@
 | [0303-range-sum-query-immutable](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0588-design-in-memory-file-system) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0969-number-of-recent-calls) |
@@ -588,6 +590,7 @@
 | [0206-reverse-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -997,6 +1000,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0460-lfu-cache) |
 ## Combinatorics
 |  |
 | ------- |
