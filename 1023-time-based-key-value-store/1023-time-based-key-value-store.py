@@ -24,7 +24,6 @@ class TimeMap:
             
             l, r = 0, len(self.store[key]) - 1
             ans = -1
-            print(timestamps)
             while l <= r:
                 mid = l + (r - l)//2
                 if timestamps[mid][-1] <= timestamp:
