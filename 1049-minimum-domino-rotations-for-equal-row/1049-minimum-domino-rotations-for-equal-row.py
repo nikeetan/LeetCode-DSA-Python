@@ -14,7 +14,7 @@ class Solution:
                     swaps_count += 1
             return swaps_count
 
-        candidates = {tops[0], bottoms[0]}  # ✅ Try both
+        candidates = {tops[0], bottoms[0]}  # 
         min_swaps = float('inf')
 
         for ele in candidates:
