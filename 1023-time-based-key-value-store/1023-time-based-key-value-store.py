@@ -19,9 +19,7 @@ class TimeMap:
 
     def get(self, key: str, timestamp: int) -> str:
         if key in self.store:
-
             timestamps = self.store[key] # here the list will be fetched
-            
             l, r = 0, len(self.store[key]) - 1
             ans = -1
             while l <= r:
@@ -31,9 +29,6 @@ class TimeMap:
                     l = mid + 1
                 else:
                     r = mid - 1
-            if ans == -1:
-                return ""
-            else:
-                return timestamps[ans][0]
+            return "" if ans == -1 else timestamps[ans][0]
         else:
             return ""
