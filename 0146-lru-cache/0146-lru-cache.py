@@ -52,18 +52,14 @@ and when i insert i insert at the 0th position so put takes o(1)
 #         if key not in self.store:
 #             self.order.append(key)
 #         self.store[key] = value
-
-
 class ListNode:
-
     def __init__(self, key, val):
         self.next = None
         self.prev = None
+        self.key = key
         self.val = val
-        self.key = key 
 
 class LRUCache:
-
     def __init__(self, capacity: int):
         self.capacity = capacity
         self.head = ListNode(-1, -1)
@@ -71,43 +67,39 @@ class LRUCache:
         self.head.next = self.tail
         self.tail.prev = self.head
         self.dic = {}
-
+       
     def get(self, key: int) -> int:
-        if key not in self.dic:
-            return -1
-        else:
+        if key in self.dic:
             node = self.dic[key]
             self.remove(node)
-            self.add(node)
+            self.add(node.key, node.val)
             return node.val
+        else:
+            return -1
             
     def put(self, key: int, value: int) -> None:
         if key in self.dic:
-            old_node = self.dic[key]
-            self.remove(old_node)
-
+            self.remove(self.dic[key])
+        self.add(key, value)
+        if  len(self.dic) > self.capacity:
+            # we should remove the least recent use
+            node = self.head.next
+            self.remove(node)
+            del self.dic[node.key]
+           
+    
+    def add(self, key, value):
         node = ListNode(key, value)
         self.dic[key] = node
-        self.add(node)
-
-        if len(self.dic) > self.capacity:
-            del_node = self.head.next
-            self.remove(del_node)
-            del self.dic[del_node.key]
-
-    def add(self, node):
-        previous_node = self.tail.prev
-        previous_node.next = node
-        node.prev = previous_node
+        prev_node = self.tail.prev
+        prev_node.next = node
+        node.prev = prev_node
         node.next = self.tail
         self.tail.prev = node
-       
-
 
     def remove(self, node):
         node.prev.next = node.next
         node.next.prev = node.prev
-        
 
 
 # Your LRUCache object will be instantiated and called as such:
