@@ -65,10 +65,9 @@ class WordDictionary:
                 return dfs(node.children[word[indx]], indx + 1)
             elif word[indx] == '.': # if '.' Take any neighbour and check
                 for child in node.children:
+                    print(child)
                     if dfs(node.children[child],indx + 1):
                         return True
-            else: # check if the word we want to search doesn't exist in the trie node
-                return False 
             return False
         return dfs(node, indx)
 
