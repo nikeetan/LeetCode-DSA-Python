@@ -1,24 +1,8 @@
 
 class TrieNode:
     def __init__(self):
-        self.links = [None] * 26
-        self.is_end = False
-
-    def get(self, ch):
-        return self.links[ord('a')-ord(ch)]
-
-    def contains(self, ch):
-        return self.links[ord('a')-ord(ch)] is not None
-    
-    def put(self, ch, node):
-        self.links[ord('a') - ord(ch)] = node
-
-    def is_end(self):
-        return self.is_end
-    
-    def set_end(self):
-        self.is_end = True
-
+        self.children = {}
+        self.flag = False
 
 class Trie:
 
@@ -29,26 +13,27 @@ class Trie:
     def insert(self, word: str) -> None:
         node = self.root
         for ch in word:
-            if not node.contains(ch):
-                node.put(ch, TrieNode())
-            node = node.get(ch)
-        node.set_end()
+            if ch not in node.children:
+                node.children[ch] = TrieNode()
+            node = node.children[ch]
+        node.flag = True
 
         
 
     def search(self, word: str) -> bool:
         node = self.root
         for ch in word:
-            if not node.contains(ch):
+            if ch in node.children:
+                node = node.children[ch]
+            else:
                 return False
-            node = node.get(ch)
-        return node.is_end
+        return node.flag
 
     def startsWith(self, prefix: str) -> bool:
         node = self.root
         for ch in prefix:
-            if node.contains(ch):
-                node = node.get(ch)
+            if ch in node.children:
+                node = node.children[ch]
             else:
                 return False
         return True
