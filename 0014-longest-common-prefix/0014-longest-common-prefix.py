@@ -9,10 +9,18 @@
 
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        prefix = strs[0]
-        for j in range(1, len(strs)):
-            while strs[j].find(prefix):
-                prefix = prefix [ :len(prefix) - 1]
-                if len(prefix) == 0:
-                    prefix = ""
+        '''
+        Brute force would be
+        sort it lexiographically
+        '''
+        strs.sort() # O(logn) n is the number of strings in the lists (o (n * L logn n))
+        p1, p2 = 0, len(strs) - 1
+        indx = 0
+        prefix = ""
+        # incase of equal characters we will be having the o(L) + o(n * L logn)
+        while (indx < len(strs[p1]) and indx < len(strs[p2])) and strs[p1][indx] == strs[p2][indx]:
+            prefix += strs[p1][indx]
+            indx += 1
         return prefix
+        # Space complexity o(L) ["aaa", "aaa", "aaa", "aaa"]
+        
