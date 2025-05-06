@@ -20,11 +20,13 @@ class Solution:
         hash_map = {0 : -1}
         prefix = 0
         for i in range(len(nums)):
-            prefix = (prefix + nums[i]) % k
-            if prefix in hash_map:
-                if (i - hash_map[prefix]) > 1:
+            prefix += nums[i]
+            if prefix % k in hash_map:
+                if (i - hash_map[prefix % k]) > 1:
                     return True
             else:
-                hash_map[prefix] = i
+                hash_map[prefix % k] = i
 
         return False
+
+        #25 6
