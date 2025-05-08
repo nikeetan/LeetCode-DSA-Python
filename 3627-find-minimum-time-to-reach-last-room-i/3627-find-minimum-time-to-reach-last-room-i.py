@@ -1,7 +1,7 @@
 import heapq
 class Solution:
     def minTimeToReach(self, moveTime: List[List[int]]) -> int:
-        # classic BFS
+        # classic Dijiktras
         visited = set()
         # Row and column 
         R = len(moveTime)
@@ -21,10 +21,7 @@ class Solution:
             for dirX, dirY in directions:
                 nei_x , nei_y = r + dirX, c + dirY
                 if ((0 <= nei_x < R and 0<= nei_y < C) and (nei_x, nei_y) not in visited):
-                    if curr_t + 1 > moveTime[nei_x][nei_y]:
-                        new_t = curr_t + 1 
-                    else:
-                        new_t = moveTime[nei_x][nei_y] + 1
+                    new_t = max(curr_t, moveTime[nei_x][nei_y]) + 1 
                     heapq.heappush(queue, (new_t, nei_x, nei_y))
         return - 1
         
