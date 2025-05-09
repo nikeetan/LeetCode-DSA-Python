@@ -2,27 +2,23 @@
 
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
-        adj = {}
-        for u, v in edges:
-            if u not in adj:
-                adj[u] = []
-            if v not in adj:
-                adj[v] = []
+        if len(edges) != n - 1:
+            return False
+        adj = defaultdict(list)
+        for u , v in edges:
             adj[u].append(v)
             adj[v].append(u)
-
-        def dfs(node, parent):
-            visited[node] = True
-            for nei in adj.get(node, []):
-                if visited[nei]:
-                    if parent != nei:
-                        return True
-                elif dfs(nei, node):
-                    return True
-            return False
-
+        
         visited = [False] * n
-        start = 0
-        if dfs(start, -1):
-            return False
+        stk = []
+        visited[0] = True
+        stk.append(0)
+        
+        while stk:
+            node = stk.pop()
+            for nei in adj.get(node, []):
+                if not (visited[nei]):
+                    visited[nei] = True
+                    stk.append(nei)
         return all(visited)
+        
