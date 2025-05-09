@@ -35,7 +35,7 @@ class Solution:
                     root.right = dfs(root.right, successor.val)
                 # if the node to be deleted has left then we will have to travel as much as right of the right sub tree to get the node and then swap so as to maintain the bst
 
-                elif root.left:
+                elif root.val == key and root.left:
                     predecessor = find_predecessor(root.left)
                     root.val = predecessor.val
                     root.left = dfs(root.left, predecessor.val)
