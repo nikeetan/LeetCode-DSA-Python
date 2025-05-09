@@ -29,7 +29,7 @@ class Solution:
                     return None
 
                 # if the node to be deleted has right then we will have to travel as much as left of the right sub tree to get the node and then swap so as to maintain the bst
-                elif root.right:
+                elif root.val == key and root.right:
                     successor = find_successor(root.right)
                     root.val = successor.val
                     root.right = dfs(root.right, successor.val)
