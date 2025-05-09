@@ -782,6 +782,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0545-boundary-of-binary-tree) |
@@ -938,6 +939,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0545-boundary-of-binary-tree) |
@@ -1000,6 +1002,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Randomized
