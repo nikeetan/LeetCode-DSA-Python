@@ -1,3 +1,5 @@
+# A graph is a valid tree when we have no cycles in it how do we detect the cycle is dfs or bfs having the visit node and c
+
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
         adj = {}
@@ -11,14 +13,14 @@ class Solution:
 
         def dfs(node, parent):
             visited[node] = True
-            for neighbor in adj.get(node, []):
-                if (visited[neighbor] == True):
-                    if parent != neighbor:
+            for nei in adj.get(node, []):
+                if visited[nei]:
+                    if parent != nei:
                         return True
-                elif dfs(neighbor, node):
+                elif dfs(nei, node):
                     return True
             return False
- 
+
         visited = [False] * n
         start = 0
         if dfs(start, -1):
