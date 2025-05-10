@@ -618,6 +618,7 @@
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
