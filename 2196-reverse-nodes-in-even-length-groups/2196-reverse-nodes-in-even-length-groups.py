@@ -9,41 +9,43 @@ class Solution:
         brute force i can think of stack so the first reversal needs to be done at group len 2
         second at group len 4 t
         '''
-        temp = head
-        curr_size = 0
-        odd_gp = 1
-        even_gp = 2
-        stk = []
-        
-        while temp is not None:
-            stk.append(temp.val)
-            curr_size += 1
-            if curr_size == odd_gp:
-                curr_size = 0
-                odd_gp += 2
-            elif curr_size == even_gp:
-                start_p = len(stk) - even_gp
-                end_p = len(stk) - 1
-                while start_p < end_p:
-                    stk[start_p], stk[end_p] = stk[end_p], stk[start_p]
-                    start_p += 1
-                    end_p -= 1
-                curr_size = 0
-                even_gp += 2
-            
-            temp = temp.next
-        if curr_size > 0 and curr_size % 2 == 0:
-            start_p, end_p = len(stk) - curr_size, len(stk) - 1
-            while start_p < end_p:
-                stk[start_p], stk[end_p] = stk[end_p], stk[start_p]
-                start_p += 1
-                end_p -= 1
-        
-        temp = ListNode(None)
-        head = temp
-        for i in range(len(stk)):
-            temp.val = stk[i]
-            if i + 1 != len(stk):
-                temp.next = ListNode(0, None)
+        def reverse(start, k):
+            prev = None
+            curr = start
+            while k:
+                tmp = curr.next
+                curr.next = prev
+                prev = curr
+                curr = tmp
+                k -= 1
+            return prev, start
+
+            # we will use only one group count to distinguish btw odd and even
+        count = 0
+        group_size = 1
+        dummy = ListNode(0, None)
+        prev = dummy
+        curr = head
+
+        # count the no of nodes
+        while curr:
+            count = 0
+            temp = curr
+            while temp is not None and count < group_size:
                 temp = temp.next
+                count += 1
+            
+
+            if count % 2 == 0:
+                # revserse logic
+                new_head, new_tail = reverse(curr , count)
+                prev.next = new_head
+                new_tail.next = temp
+                prev = new_tail
+                curr = temp
+            else:
+                for _ in range(count):
+                    prev = curr
+                    curr = curr.next
+            group_size += 1
         return head
