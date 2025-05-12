@@ -367,6 +367,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
@@ -611,6 +612,7 @@
 | [0061-rotate-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
