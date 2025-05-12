@@ -34,6 +34,7 @@ class Solution:
         return new_node
         '''
         # iterative
+        '''
         o_to_n = {}
         temp = head
         # create a node equivalent in the map
@@ -49,4 +50,41 @@ class Solution:
             temp = temp.next
 
         return o_to_n[head]
+        '''
+        # without hash_map insert in between
+        # creation of Node
+        temp = head
+        while temp is not None:
+            newnode = Node(temp.val)
+            dummy = temp.next
+            temp.next = newnode
+            newnode.next = dummy
+            temp = temp.next.next
+        
+        temp = head
+        dummy = Node(-1)
+        new_head = dummy
+        while temp is not None:
+            random = temp.random
+            if random is None:
+                temp.next.random = None
+            else:
+                temp.next.random = random.next
+            temp = temp.next.next
+
+        temp = head
+        while temp is not None:
+            dummy.next = temp.next
+            temp.next = temp.next.next
+            dummy = dummy.next
+            temp = temp.next
+        return new_head.next
+
+        
+        
+        
+
+        # Assignment of random and next pointer
+
+
          
