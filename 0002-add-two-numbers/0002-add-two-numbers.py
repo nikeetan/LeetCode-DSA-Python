@@ -5,38 +5,36 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        sum1=0
-        curr=None
-        carry=0
-        n1=l1
-        prev=None
-        while l1 and l2:
-            sum1=(l1.val+l2.val+carry)
-            carry=(sum1//10)
-            l1.val=sum1%10
-            prev=l1
-            l1=l1.next
-            l2=l2.next
-        if ((l1 is None) and (l2 is None) and carry==0):
-            return n1 
-        elif ((l1 is None) and (l2 is None) and carry==1):
-            prev.next=ListNode(1)
-            return n1 
-        else:        
-            if l2:
-                prev.next=l2
-            curr=prev.next
-            prev=None
-            while carry!=0 and curr:
-                val1=(curr.val+carry)
-                carry=val1//10
-                curr.val=val1%10
-                prev=curr
-                curr=curr.next
-            if carry!=0:
-                prev.next=ListNode(1)
-            return n1
-    
-
-
-      
+        temp, temp1 = l1, l2
+        #You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+        n = l1
+        carry = 0
+        # Traversing until both of them are equal
+        prev = None
+        while temp  and temp1:
+            curr_sum = temp.val + temp1.val + carry
+            carry = curr_sum // 10
+            temp.val = curr_sum % 10 
+            prev = temp
+            temp = temp.next
+            temp1 = temp1.next
+        
+        # I check which is the smaller one and i should continue to move with the one which is bigger
+        if (temp is None and temp1 is None) and (carry == 0):
+            return n
+        elif (temp is None and temp1 is None) and (carry > 0):
+            prev.next = ListNode(carry)
+            return n
+        else:
+            if temp1:
+                prev.next = temp1
+            temp = prev.next  
+            while temp:
+                curr_sum = temp.val + carry
+                carry = curr_sum // 10
+                temp.val = curr_sum % 10
+                prev = temp
+                temp = temp.next
+        if carry > 0:
+            prev.next = ListNode(carry)
+        return n
