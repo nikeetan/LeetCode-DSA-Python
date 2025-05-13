@@ -316,6 +316,7 @@
 | [3447-clear-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3617-find-the-original-typed-string-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
@@ -354,6 +355,7 @@
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -429,6 +431,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
@@ -452,6 +455,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -523,6 +527,7 @@
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
 |  |
 | ------- |
