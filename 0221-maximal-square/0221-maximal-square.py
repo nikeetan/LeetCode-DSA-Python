@@ -35,7 +35,7 @@
 class Solution:
     def maximalSquare(self, matrix):
         rows = len(matrix)
-        cols = len(matrix[0]) if rows > 0 else 0
+        cols = len(matrix[0])
         dp = [0] * (cols + 1)
         maxsqlen = 0
         prev = 0
