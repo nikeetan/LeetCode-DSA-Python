@@ -7,16 +7,14 @@
 class Solution:
     def rob(self, root: Optional[TreeNode]) -> int:
         @cache
-        def helper(root, parent):
+        def helper(root):
             if root is None:
-                return 0
+                return 0, 0
+                # rob, not rob
+            left = helper(root.left)
+            right = helper(root.right)
 
-            if not parent:
-                rob = root.val + helper(root.left, parent = True) + helper(root.right, parent = True)
-                not_rob = helper(root.left, parent = False) + helper(root.right, parent = False)
-                return max(rob, not_rob)
-            
-            if parent:
-                return helper(root.left, parent = False) +  helper(root.right, parent = False)
-        
-        return helper(root, parent = False)
+            rob = root.val + left[1] + right[1]
+            not_rob = max(left) + max(right)
+            return [rob, not_rob]
+        return max(helper(root))
