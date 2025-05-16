@@ -4,17 +4,13 @@ again i can think of bfs herr
 
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        queue = deque([(0, 0)])
-        visited = set([0])
-        n = len(nums)
+        end = 0
         jumps = 0
-        while queue:
-            index, jumps = queue.popleft()
-            if index >= n - 1:
-                return jumps
-            for step in range(1, nums[index] + 1):
-                next_index = index + step
-                if next_index < n and next_index not in visited:
-                    visited.add(next_index)
-                    queue.append((next_index, jumps + 1))
+        far = float('-inf')
+        for i in range(len(nums) - 1):
+            far = max(far, i + nums[i])
+            if i == end:
+                jumps += 1
+                end = far
+        return jumps
         
