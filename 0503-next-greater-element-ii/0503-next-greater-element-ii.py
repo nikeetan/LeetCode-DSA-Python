@@ -23,6 +23,7 @@ class Solution:
             if stack:                   
                 res[curr_ind] = stack[-1]           #[2, -1, -1]
             stack.append(nums[curr_ind])            #[2, 1]        
+            # print(curr_ind,indx, stack, res)
             indx -= 1
 
         return res
