@@ -35,7 +35,6 @@ class Solution:
                     stk.append(int(stk.pop() / curr_num))
                 sign = s[ch]
                 curr_num = 0
-        print(stk)
         return sum(stk)
 
 
