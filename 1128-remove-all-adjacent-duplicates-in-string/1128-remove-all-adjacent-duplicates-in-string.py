@@ -11,13 +11,12 @@ class Solution:
             stk = []
             p = 0
             while p < len(s):
-                if stk:
-                    if stk[-1] == s[p]:
-                        while stk and s[p] == stk[-1]:
-                            stk.pop()
-                    else:
-                        stk.append(s[p])
+                if stk and stk[-1] == s[p]:
+                    while stk and s[p] == stk[-1]:
+                        stk.pop()
                 else:
                     stk.append(s[p])
                 p += 1
         return "".join(stk)
+#TC : O(n)
+#SC : O(n)
