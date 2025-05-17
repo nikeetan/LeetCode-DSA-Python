@@ -12,8 +12,7 @@ class Solution:
             p = 0
             while p < len(s):
                 if stk and stk[-1] == s[p]:
-                    while stk and s[p] == stk[-1]:
-                        stk.pop()
+                    stk.pop()
                 else:
                     stk.append(s[p])
                 p += 1
