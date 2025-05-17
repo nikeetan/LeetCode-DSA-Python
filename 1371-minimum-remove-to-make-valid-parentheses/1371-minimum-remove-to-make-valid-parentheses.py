@@ -5,7 +5,6 @@ class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         s = list(s)
         open_b = 0
-        indx_to_remove = []
         for i, val in enumerate(s):
             if val == '(':
                 open_b += 1
