@@ -22,20 +22,25 @@ class Solution:
     def calculate(self, s: str) -> int:
         curr_num = 0
         sign = '+'
-        stk = []
+        res = 0
+        last_num = 0
         for ch in range(len(s)):
             if s[ch].isdigit():
                 curr_num = curr_num * 10 + int(s[ch])
             if s[ch] in '+-*/' or ch == len(s) - 1:
                 if sign in '+-':
-                    stk.append(-curr_num) if sign == '-' else stk.append(curr_num)
+                    res += last_num
+                    last_num = -curr_num if sign == '-' else curr_num
+                    #stk.append(-curr_num) if sign == '-' else stk.append(curr_num)
                 elif sign == '*':
-                    stk.append(stk.pop() * curr_num)
+                    last_num *= curr_num
+                    #stk.append(stk.pop() * curr_num)
                 elif sign =='/':
-                    stk.append(int(stk.pop() / curr_num))
+                    last_num = int (last_num / curr_num)
+                    #stk.append(int(stk.pop() / curr_num))
                 sign = s[ch]
                 curr_num = 0
-        return sum(stk)
+        return res + last_num
 
 
             
