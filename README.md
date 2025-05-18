@@ -91,6 +91,7 @@
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0898-transpose-matrix) |
@@ -764,6 +765,7 @@
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0785-basic-calculator-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0785-basic-calculator-iii) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
@@ -780,6 +782,7 @@
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
