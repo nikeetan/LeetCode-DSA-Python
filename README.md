@@ -74,6 +74,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0485-max-consecutive-ones) |
@@ -600,6 +601,7 @@
 | [0079-word-search](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0221-maximal-square) |
+| [0407-trapping-rain-water-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
@@ -708,6 +710,7 @@
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
+| [0407-trapping-rain-water-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0692-top-k-frequent-words) |
@@ -945,6 +948,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
