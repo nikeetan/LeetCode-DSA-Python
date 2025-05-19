@@ -88,6 +88,7 @@
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
@@ -600,6 +601,7 @@
 | [0200-number-of-islands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
@@ -896,6 +898,7 @@
 | [0572-subtree-of-another-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
@@ -946,6 +949,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
@@ -1125,6 +1129,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
