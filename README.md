@@ -130,6 +130,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1876-map-of-highest-peak](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -606,6 +607,7 @@
 | [1036-rotting-oranges](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
+| [1876-map-of-highest-peak](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1876-map-of-highest-peak) |
 | [2728-sum-in-a-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
@@ -958,6 +960,7 @@
 | [1447-jump-game-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1447-jump-game-iv) |
 | [1634-clone-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1634-clone-n-ary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
+| [1876-map-of-highest-peak](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
