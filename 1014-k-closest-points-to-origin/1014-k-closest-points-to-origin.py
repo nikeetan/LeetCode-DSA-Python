@@ -13,6 +13,6 @@ class Solution:
         res = []
         while min_heap:
             dist, points = heapq.heappop(min_heap)
-            res.insert(0, points)
+            res.append(points)
         return res
             
