@@ -1,39 +1,99 @@
 class Solution:
     def minJumps(self, arr: List[int]) -> int:
+        if len(arr) <= 1:
+            return 0
         dic = defaultdict(list)
         for i in range(len(arr)):
             dic[arr[i]].append(i)
-       
-       
-        
-        
-        queue = deque([(0, 0)])
-        visited = set()
-        visited.add(0)
         n = len(arr)
-        while queue:
+        front, back = set([0]), set([n- 1])
+        visited = {0, len(arr) - 1}
+        n = len(arr)
+        steps = 0
+        while front:
+            if len(front) > len(back):
+                front, back = back, front
+            next_front = set()
+            for curr_indx in front:
+                for indx in dic[arr[curr_indx]]:
+                    if indx in back:
+                        return steps + 1
+                    if indx not in visited:
+                        next_front.add(indx)
+                        visited.add(indx)
             
-            curr_indx, steps = queue.popleft()
-            if curr_indx >= n - 1:
-                return steps
+                dic[arr[curr_indx]].clear()
 
-            next_nei = curr_indx + 1
-            prev_nei = curr_indx - 1
-
-            if arr[curr_indx] in dic:
-                for jump in dic[arr[curr_indx]]:
-                    if ((jump != curr_indx) and (jump not in visited)):
-                        queue.append((jump, steps + 1))
-                        visited.add(jump)
-                del dic[arr[curr_indx]]
-            
-
-            if next_nei < n and next_nei not in visited:
-                queue.append((next_nei, steps + 1))
-                visited.add(next_nei)
-
-            if prev_nei >= 0 and prev_nei not in visited:
-                queue.append((prev_nei, steps + 1))
-                visited.add(prev_nei)
-        
+                next_indx = curr_indx + 1
+                prev_indx = curr_indx - 1
+                
+                if (0 <= next_indx < len(arr)):
+                    if next_indx in back:
+                        return steps + 1
+                    if next_indx not in visited:
+                        next_front.add(next_indx)
+                        visited.add(next_indx)
+                if (0 <= prev_indx < len(arr)):
+                    if prev_indx in back:
+                        return steps + 1
+                    if prev_indx not in visited:
+                        next_front.add(prev_indx)
+                        visited.add(prev_indx)
+            front = next_front
+            steps += 1
         return -1
+
+
+
+# class Solution:
+#     def minJumps(self, arr) -> int:
+#         n = len(arr)
+#         if n <= 1:
+#             return 0
+
+#         graph = {}
+#         for i in range(n):
+#             if arr[i] in graph:
+#                 graph[arr[i]].append(i)
+#             else:
+#                 graph[arr[i]] = [i]
+
+#         curs = set([0])  # store layers from start
+#         visited = {0, n-1}
+#         step = 0
+
+#         other = set([n-1]) # store layers from end
+
+#         # when current layer exists
+#         while curs:
+#             # search from the side with fewer nodes
+#             if len(curs) > len(other):
+#                 curs, other = other, curs
+#             nex = set()
+
+#             # iterate the layer
+#             for node in curs:
+
+#                 # check same value
+#                 for child in graph[arr[node]]:
+#                     if child in other:
+#                         return step + 1
+#                     if child not in visited:
+#                         visited.add(child)
+#                         nex.add(child)
+
+#                 # clear the list to prevent redundant search
+#                 graph[arr[node]].clear()
+
+#                 # check neighbors
+#                 for child in [node-1, node+1]:
+#                     if child in other:
+#                         return step + 1
+#                     if 0 <= child < len(arr) and child not in visited:
+#                         visited.add(child)
+#                         nex.add(child)
+
+#             curs = nex
+#             step += 1
+
+#         return -1
