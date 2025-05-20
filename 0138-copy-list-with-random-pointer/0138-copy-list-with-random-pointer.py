@@ -75,9 +75,8 @@ class Solution:
         temp = head
         while temp is not None:
             dummy.next = temp.next
-            temp.next = temp.next.next
+            temp = temp.next.next
             dummy = dummy.next
-            temp = temp.next
         return new_head.next
 
         
