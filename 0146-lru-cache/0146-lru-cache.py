@@ -71,6 +71,7 @@ class LRUCache:
     def get(self, key: int) -> int:
         if key in self.dic:
             node = self.dic[key]
+            del self.dic[key]
             self.remove(node)
             self.add(node.key, node.val)
             return node.val
