@@ -17,14 +17,16 @@ class Solution:
         for node in range(numCourses):
             if indegree[node] == 0:
                 queue.append(node)
-        
-        # BFS
-        course_order = []
-        while queue:
-            node = queue.popleft()
-            course_order.append(node)
-            for neighbour in adj.get(node,[]):
-                indegree[neighbour] -= 1
-                if indegree[neighbour] == 0:
-                    queue.append(neighbour)
-        return course_order if len(course_order) == numCourses else []
+        if not queue:
+                return []
+        else:
+            # BFS
+            course_order = []
+            while queue:
+                node = queue.popleft()
+                course_order.append(node)
+                for neighbour in adj.get(node,[]):
+                    indegree[neighbour] -= 1
+                    if indegree[neighbour] == 0:
+                        queue.append(neighbour)
+            return course_order if len(course_order) == numCourses else []
