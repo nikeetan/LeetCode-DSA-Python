@@ -6,7 +6,7 @@ class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         min_heap = []
         for x1, y1 in points:
-            dist = math.sqrt(x1**2 + y1**2)
+            dist = (x1**2 + y1**2)
             heapq.heappush(min_heap, (-dist, [x1, y1]))
             if len(min_heap) > k:
                 heapq.heappop(min_heap)
