@@ -9,8 +9,7 @@ class Solution:
             if '+' in new_email:
                 new_email = new_email[:new_email.index('+')]
             if '.' in new_email:
-                while '.' in new_email:
-                    new_email = new_email[:new_email.index('.')] + new_email[new_email.index('.') + 1 :]
+                new_email = new_email.replace('.','')
             new_email = new_email + '@' + email[1]
             unique.add(new_email)
         return len(unique)
