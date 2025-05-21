@@ -873,6 +873,7 @@
 | [0904-leaf-similar-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1634-clone-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1634-clone-n-ary-tree) |
 | [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -935,6 +936,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1428-jump-game-iii) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1634-clone-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1634-clone-n-ary-tree) |
 | [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
@@ -988,6 +990,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1447-jump-game-iv) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1634-clone-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1634-clone-n-ary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1876-map-of-highest-peak) |
@@ -1042,6 +1045,7 @@
 | [0904-leaf-similar-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2843-extract-kth-character-from-the-rope-tree) |
