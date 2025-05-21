@@ -106,6 +106,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0940-fruit-into-baskets) |
+| [0965-unique-email-addresses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1019-squares-of-a-sorted-array) |
@@ -314,6 +315,7 @@
 | [0868-push-dominoes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
+| [0965-unique-email-addresses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1023-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -425,6 +427,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0940-fruit-into-baskets) |
+| [0965-unique-email-addresses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0965-unique-email-addresses) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1023-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
