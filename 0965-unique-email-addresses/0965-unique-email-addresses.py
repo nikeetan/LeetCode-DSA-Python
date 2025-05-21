@@ -12,7 +12,6 @@ class Solution:
                 while '.' in new_email:
                     new_email = new_email[:new_email.index('.')] + new_email[new_email.index('.') + 1 :]
             new_email = new_email + '@' + email[1]
-            print(new_email)
             unique.add(new_email)
         return len(unique)
                 
