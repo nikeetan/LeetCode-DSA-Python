@@ -62,6 +62,7 @@
 | [0220-contains-duplicate-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
@@ -491,6 +492,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
@@ -722,6 +724,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
@@ -1139,6 +1142,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Union Find
@@ -1214,6 +1218,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Radix Sort
 |  |
