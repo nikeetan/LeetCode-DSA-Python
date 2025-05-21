@@ -23,8 +23,8 @@ class Codec:
 
     def deserialize(self, data):
         """Decodes your encoded data to tree."""
-        values = data.split(',')  
-
+        values = data.split(',') 
+        print(values)
         def helper():
             val = values.pop(0)  # pop from front
             if val == 'M':
