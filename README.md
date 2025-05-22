@@ -308,6 +308,7 @@
 | [0408-valid-word-abbreviation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0551-student-attendance-record-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0588-design-in-memory-file-system) |
@@ -590,6 +591,7 @@
 | [0303-range-sum-query-immutable](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0588-design-in-memory-file-system) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -868,6 +870,7 @@
 | [0337-house-robber-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0337-house-robber-iii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0543-diameter-of-binary-tree) |
@@ -927,6 +930,7 @@
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0545-boundary-of-binary-tree) |
@@ -984,6 +988,7 @@
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1042,6 +1047,7 @@
 | [0337-house-robber-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0337-house-robber-iii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0543-diameter-of-binary-tree) |
@@ -1109,6 +1115,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
