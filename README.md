@@ -58,6 +58,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0216-combination-sum-iii) |
@@ -294,6 +295,7 @@
 | [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
@@ -623,6 +625,7 @@
 | [0074-search-a-2d-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
@@ -826,6 +829,7 @@
 | [0078-subsets](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
@@ -1192,6 +1196,7 @@
 | [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0212-word-search-ii) |
 | [0588-design-in-memory-file-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0588-design-in-memory-file-system) |
 | [0692-top-k-frequent-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
