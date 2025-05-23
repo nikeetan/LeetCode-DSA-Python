@@ -7,14 +7,17 @@ class Solution:
         for i in range(len(words) - 1):
             word1, word2 = words[i], words[i + 1]
             min_len = min(len(word1), len(word2))
+
+            if len(word1) > len(word2) and word1[:min_len] == word2[:min_len]:
+                return ""
+
             for j in range(min_len):
                 if word1[j] != word2[j]:
                     edges.append([word1[j], word2[j]])
                     break
-            else:
-                if len(word1) > len(word2):
-                    return ""  # Invalid order
-
+            # else:
+            #     if len(word1) > len(word2):
+            #         return ""  # Invalid order
 
         # Classic topological sort
         adj = defaultdict(list)
@@ -31,7 +34,7 @@ class Solution:
         for key, val in indegree.items():
             if val == 0:
                 queue.append(key)
-        print(queue)
+
         
         visited = []
         while queue:
