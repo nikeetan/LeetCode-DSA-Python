@@ -177,6 +177,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -278,6 +279,7 @@
 | [2728-sum-in-a-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2728-sum-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3430-count-days-without-meetings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -581,6 +583,7 @@
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
 |  |
@@ -673,6 +676,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Linked List
 |  |
 | ------- |
@@ -900,6 +904,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2843-extract-kth-character-from-the-rope-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1092,6 +1097,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
