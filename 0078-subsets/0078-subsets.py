@@ -1,11 +1,15 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        size = len(nums)
         res = []
-        def helper(nums, indx, sl):
-            if indx == len(nums):
-                res.append(sl)
+        def helper(indx, sl):
+            if indx >= size:
+                res.append(sl[:])
                 return 
-            helper(nums, indx + 1, sl + [nums[indx]])
-            helper(nums, indx + 1, sl) 
-        helper(nums, 0 , [])
+            sl.append(nums[indx])
+            helper(indx + 1, sl)
+            sl.pop()
+            helper(indx + 1, sl)
+
+        helper(0, [])
         return res
