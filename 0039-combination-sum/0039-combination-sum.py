@@ -15,6 +15,7 @@ class Solution:
         return
         from 6 i will now move pointer that is to 3 since i have sorted array if i move pointer i will always get the sum greater than 7 but i can't get it untill i do 
         '''
+        '''
         candidates.sort()
         size = len(candidates)
         candidates_set = []
@@ -35,6 +36,19 @@ class Solution:
             # helper(indx + 1, target, candidates_set)
         helper(0, target, candidates_set)
         return res
-
+        '''
+        dp = [[] for i in range(target + 1)]
+        dp[0].append([])   
+        # Outer for loop is it possible to make sum 1 form the current set of numbers
+        # inner loop is think like coin change which all possible coins could make
+        for i in range(1, target + 1):
+            for j in range(len(candidates)):
+                if candidates[j] <= i:
+                    for comb in dp[i - candidates[j]]:
+                        comb = comb + [candidates[j]]
+                        comb.sort()
+                        if comb not in dp[i]:
+                            dp[i].append(comb)        
+        return dp[target]
 
 
