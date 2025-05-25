@@ -37,22 +37,20 @@ class Solution:
     #     return find_start()
     def dfs(self , R, C, board, row, col, word, indx):
         directions = [(0, -1), (0, 1), (1, 0), (-1, 0)]
-        start = (row, col)
-        visited = set()
-        visited.add(start)
-        def helper(indx, row, col, visited):
+        def helper(indx, row, col):
             if indx == len(word):
                 return True
             for dir_x, dir_y in directions:
                 new_row, new_col = row + dir_x, col + dir_y
-                if ((0 <= new_row <R) and (0 <= new_col < C)) and (new_row, new_col) not in visited:
+                if ((0 <= new_row <R) and (0 <= new_col < C)):
                     if board[new_row][new_col] == word[indx]:
-                        visited.add((new_row,new_col))
-                        if helper(indx + 1, new_row, new_col, visited):
+                        temp = board[new_row][new_col]
+                        board[new_row][new_col] = '#'
+                        if helper(indx + 1, new_row, new_col):
                             return True
-                        visited.remove((new_row,new_col))
+                        board[new_row][new_col] = temp
             return False
-        return helper(indx + 1, row, col, visited)
+        return helper(indx + 1, row, col)
 
 
 
@@ -63,8 +61,12 @@ class Solution:
         indx = 0
         for row in range(R):
             for col in range(C):
-                if board[row][col] == word[indx] and self.dfs(R, C, board, row, col, word, indx):
+                if board[row][col] == word[indx]:
+                    temp = board[row][col]
+                    board[row][col] = '#'
+                    if self.dfs(R, C, board, row, col, word, indx):
                         return True
+                    board[row][col] = temp
         return False
         
 
