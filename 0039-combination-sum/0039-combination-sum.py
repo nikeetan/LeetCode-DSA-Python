@@ -26,12 +26,13 @@ class Solution:
                 res.append(candidates_set[:])
                 return
             # pick
-            candidates_set.append(candidates[indx])
-            helper(indx, target - candidates[indx], candidates_set)
-            candidates_set.pop()
+            for i in range(indx, size):
+                candidates_set.append(candidates[i])
+                helper(i, target - candidates[i], candidates_set)
+                candidates_set.pop()
 
-            # Non pick
-            helper(indx + 1, target, candidates_set)
+            # # Non pick
+            # helper(indx + 1, target, candidates_set)
         helper(0, target, candidates_set)
         return res
 
