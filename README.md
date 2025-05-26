@@ -299,6 +299,7 @@
 | [0076-minimum-window-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -572,6 +573,7 @@
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0213-house-robber-ii) |
@@ -852,6 +854,7 @@
 | [0078-subsets](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
