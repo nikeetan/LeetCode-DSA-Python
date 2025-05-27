@@ -7,7 +7,7 @@ class Solution:
                 return memo[indx]
             if indx >= n:
                 return 0
-            memo[indx] = nums[indx] + max(helper(indx + 2) , helper(indx + 3))
+            memo[indx] = max(helper(indx + 1), nums[indx] + helper(indx + 2))
             return memo[indx]
-        return max(helper(0), helper(1))
+        return helper(0)
             
