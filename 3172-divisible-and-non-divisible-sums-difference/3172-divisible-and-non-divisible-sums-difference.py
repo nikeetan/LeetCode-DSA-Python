@@ -5,5 +5,4 @@ class Solution:
         for i in range(1, n + 1):
             if i % m == 0:
                 deduct += i
-        print(deduct)
         return total_sum - deduct * 2
