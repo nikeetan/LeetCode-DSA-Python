@@ -23,8 +23,7 @@ SC : O(h) + o(2 ^ no of level s)
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         # queue [(start, level)]
-        queue = deque()
-        queue.append((root, 0))
+        queue = deque([(root, 0)])
         ans = float('-inf')
         while queue:
             lvl = len(queue)
@@ -32,10 +31,10 @@ class Solution:
             for i in range(lvl):
                 node, latest_indx = queue.popleft()
                 if node.left:
-                    queue.append((node.left, (2 * latest_indx + 1)))
+                    queue.append((node.left, (2 * latest_indx + 1) - 1))
                 if node.right:
-                    queue.append((node.right, (2 * latest_indx + 2)))
-
+                    queue.append((node.right, (2 * latest_indx + 2) - 1))
+            
             ans = max(ans, (latest_indx - start_indx) + 1)
         return ans
 
