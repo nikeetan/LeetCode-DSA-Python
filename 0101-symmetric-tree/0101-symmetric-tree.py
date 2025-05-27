@@ -4,23 +4,22 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import deque
+'''
+i can do a level order traversal
+queue = deque([root])
+while queue:
+    lvl = len(queue)
+    for _ in range(lvl):
+        node = queue.popleft()
+
+'''
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-        process_queue = deque()
-        process_queue.append(root.left)
-        process_queue.append(root.right)
-        while process_queue:
-            left = process_queue.popleft()
-            right = process_queue.popleft()
-            if ((left is None) and (right is None)):
-                continue 
-            if ((left is None) or (right is None)):
+        def helper(root_left, root_right):
+            if (root_left is None) and (root_right is None):
+                return True
+            if (root_left is None) or (root_right is None):
                 return False
-            if left.val != right.val:
-                return False
-            process_queue.append(left.left)
-            process_queue.append(right.right)
-            process_queue.append(left.right)
-            process_queue.append(right.left)
-        return True
+            return (root_left.val == root_right.val) and helper(root_left.right, root_right.left) and helper(root_left.left, root_right.right)
+        return helper(root, root)
+        
