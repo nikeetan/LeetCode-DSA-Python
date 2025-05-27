@@ -103,6 +103,7 @@
 | [0724-find-pivot-index](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0898-transpose-matrix) |
@@ -582,6 +583,7 @@
 | [0337-house-robber-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0337-house-robber-iii) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0647-palindromic-substrings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
