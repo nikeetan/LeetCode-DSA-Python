@@ -14,52 +14,36 @@ class Solution:
         Also every time when we are adding the neighbours will check whether the added time of them will exceeed the max time that is if we come from the node will add time
         But questions there might two pathes
         '''
+        # Create Graph
+        adj = collections.defaultdict(list)
+        for u, v , time in edges:
+            adj[u].append((v, time))
+            adj[v].append((u, time))
 
-        # Adjacency matrix
-        adj = defaultdict(list)
-        for u, v, w in edges:
-            adj[u].append((v, w))
-            adj[v].append((u, w))
-        # This serves the bidrectional edges
-        start_node, destination = 0, len(passingFees) - 1
+        nodes_num = len(passingFees)
+        # Two arrays to maintain the cost and time of traversal
+        cost = [float('inf') for _ in range(nodes_num)]
+        time = [maxTime for _ in range(nodes_num)]
+        # Start point heap = (cost, time , node)
+        start  = (passingFees[0], 0, 0)
+        queue = []
+        heapq.heappush(queue, start)
         
-        # Maintain the cost and time array for revisits
-        cost_array = [float('inf')] * len(passingFees)
-        cost_array[0] = passingFees[0]
-
-        Time = [maxTime + 1] *  len(passingFees)
-
-        Time[0] = 0
-        queue = [(passingFees[start_node], 0, 0)]
-
-
-        # we have to push the neighbors of the 0th node in a heap so that it would be easy for minimal selection
-
         while queue:
-         
-            curr_cost, curr_time, node  = heapq.heappop(queue) 
-            #print(queue, visited)
-            if node == destination:
+            curr_cost, curr_time, curr_node = heappop(queue)
+            if curr_node == nodes_num - 1:
                 return curr_cost
-   
-            for neighbor in adj.get(node, []):
-                nei_node, nei_time = neighbor
             
-
+            for nei_info in adj.get(curr_node, []):
+                nei_node, nei_time = nei_info
                 if curr_time + nei_time > maxTime:
                     continue
-                # new cost and time
-                new_cost , new_time = curr_cost + passingFees[nei_node], curr_time + nei_time
 
-                if (new_cost < cost_array[nei_node]) or (new_time  < Time[nei_node]):
+                # if we find a cheaper way to reach next city then only we will explore
+                if (curr_cost + passingFees[nei_node] < cost[nei_node]) or (curr_time + nei_time < time[nei_node]):
+                    cost[nei_node] = curr_cost + passingFees[nei_node]             
+                    time[nei_node] = curr_time + nei_time
+                
+                    heappush(queue, (cost[nei_node], time[nei_node], nei_node))
 
-                    cost_array[nei_node] = new_cost
-                    Time[nei_node] = new_time
-                    heappush(queue, (new_cost, new_time , nei_node))
-        
-
-
-        return -1 
-
-        
-        #return 0
+        return -1
