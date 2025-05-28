@@ -93,6 +93,7 @@
 | [0503-next-greater-element-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0645-set-mismatch) |
@@ -590,6 +591,7 @@
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0337-house-robber-iii) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
+| [0542-01-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -659,6 +661,7 @@
 | [0286-walls-and-gates](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0286-walls-and-gates) |
 | [0407-trapping-rain-water-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0777-toeplitz-matrix) |
@@ -1030,6 +1033,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0662-maximum-width-of-binary-tree) |
