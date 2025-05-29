@@ -19,6 +19,27 @@ for every index i have 2 choices
 class Solution:
     def numDecodings(self, s: str) -> int:
         n = len(s)
+        two_back = 1 
+        one_back = 1 if s[n - 1] != '0' else 0
+        current = 0
+      
+        if len(s) == 1:
+            if s[0] != '0':
+                current = one_back
+        else:
+            for i in range(n - 2 , -1, -1):
+                if s[i] != '0':
+                    current = one_back
+                    if int(s[i : i + 2]) <= 26:
+                        current += two_back
+                else:
+                    current = 0
+                two_back, one_back = one_back, current
+        return current
+        '''
+        TC : O(N) one time traversal
+        SC : O(N) using the dp array as a result the space
+        n = len(s)
         dp = [0] * (n + 1)
         dp[n] = 1 
         if s[n - 1] != '0':
@@ -35,6 +56,10 @@ class Solution:
                 dp[i] = 0
         return dp[0]
         '''
+
+        '''
+        TC : O(N) usage of memo makes it linear
+        SC : O(N) for the same reason
         n = len(s)
         memo = {}
         ans = 0
