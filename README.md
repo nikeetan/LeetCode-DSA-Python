@@ -224,6 +224,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0408-valid-word-abbreviation) |
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -318,6 +319,7 @@
 | [0271-encode-and-decode-strings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0408-valid-word-abbreviation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0409-longest-palindrome) |
@@ -593,6 +595,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0542-01-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0647-palindromic-substrings) |
