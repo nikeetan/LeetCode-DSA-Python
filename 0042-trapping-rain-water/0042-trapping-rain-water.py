@@ -7,14 +7,14 @@ class Solution:
         max_left, max_right = height[left], height[right]
         ans = 0
         while left < right:
-            if max_left < max_right:
-                left += 1
+            if height[left] < height[right]:
                 max_left = max(max_left, height[left])
                 ans += max_left - height[left]
+                left += 1
             else:
-                right -= 1
                 max_right = max(height[right], max_right)
                 ans += max_right - height[right]  
+                right -= 1
         return ans
 
         '''
