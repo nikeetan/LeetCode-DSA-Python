@@ -91,6 +91,7 @@
 | [0485-max-consecutive-ones](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -326,6 +327,7 @@
 | [0409-longest-palindrome](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
+| [0500-keyboard-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0588-design-in-memory-file-system) |
@@ -442,6 +444,7 @@
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
