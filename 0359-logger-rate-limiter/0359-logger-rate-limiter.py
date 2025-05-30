@@ -5,11 +5,11 @@ class Logger:
 
     def shouldPrintMessage(self, timestamp: int, message: str) -> bool:
         if message not in self.log:
-            self.log[message] = timestamp + 10
+            self.log[message] = timestamp
             return True
         else:
-            if timestamp >= self.log[message]:
-                self.log[message] = timestamp + 10
+            if timestamp - self.log[message] >= 10:
+                self.log[message] = timestamp 
                 return True
         return False
 
