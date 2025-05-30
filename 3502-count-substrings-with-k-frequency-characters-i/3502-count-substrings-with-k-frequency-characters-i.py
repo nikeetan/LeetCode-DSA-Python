@@ -22,6 +22,27 @@ SC : O(N)
 
 class Solution:
     def numberOfSubstrings(self, s: str, k: int) -> int:
+        '''
+        Total number of substrings that can be generated given s
+        n = len(s)
+        total_sub  = n * (n + 1) // 2
+        '''
+        n = len(s)
+        total_sub = n * (n + 1) // 2
+        fp, sp = 0, 0
+        counter = defaultdict(int)
+        while sp < n:
+            counter[s[sp]] += 1 
+            while counter[s[sp]] >= k:
+                counter[s[fp]] -= 1
+                fp += 1
+            total_sub = total_sub - (sp - fp + 1)
+            sp += 1
+        return total_sub
+
+
+        
+        '''
         count = 0
         for i in range(len(s)):
             counter = [0] * 26
@@ -32,6 +53,7 @@ class Solution:
                     count += len(s) - j 
                     break
         return count
+        '''
 
 
                 
