@@ -770,6 +770,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
+| [1558-course-schedule-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1706-min-cost-to-connect-all-points) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -1009,6 +1010,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1558-course-schedule-iv) |
 | [1634-clone-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1634-clone-n-ary-tree) |
 | [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
@@ -1068,6 +1070,7 @@
 | [1428-jump-game-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1447-jump-game-iv) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1558-course-schedule-iv) |
 | [1634-clone-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1634-clone-n-ary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1876-map-of-highest-peak) |
@@ -1261,6 +1264,7 @@
 | [0207-course-schedule](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
+| [1558-course-schedule-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2439-longest-cycle-in-a-graph) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
