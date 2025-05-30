@@ -18,7 +18,7 @@ class Solution:
             for c in range(C):
                 if rooms[r][c] == 0:
                     queue.append((0, r, c))
-                    visited.add((r, c))
+                    #visited.add((r, c))
 
         while queue:
             dist , row , col = queue.popleft()
@@ -26,12 +26,11 @@ class Solution:
                 new_row = row + offset_x
                 new_col = col + offset_y
 
-                if ((new_row < 0 or new_row >= R) or(new_col < 0 or new_col >= C)) or rooms[new_row][new_col] == -1 or rooms[new_row][new_col] == 0 or (new_row, new_col) in visited :
+                if ((new_row < 0 or new_row >= R) or(new_col < 0 or new_col >= C)) or rooms[new_row][new_col] == -1 or rooms[new_row][new_col] == 0 or (rooms[new_row][new_col] != 2147483647 and rooms[new_row][new_col] <= dist + 1):
                     continue
                 rooms[new_row][new_col] = dist + 1
                 queue.append((dist + 1 , new_row, new_col))
-                visited.add((new_row, new_col))
-        
+                #visited.add((new_row, new_col))
                 
         
                 
