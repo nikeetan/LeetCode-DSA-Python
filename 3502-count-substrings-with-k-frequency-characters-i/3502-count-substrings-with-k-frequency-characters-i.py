@@ -28,10 +28,9 @@ class Solution:
             count_flag = 0
             for j in range(i, len(s)):
                 counter[ord(s[j]) - ord('a')] += 1
-                if count_flag == 0 and counter[ord(s[j]) - ord('a')] >= k:
-                    count_flag = 1
-                if count_flag == 1:
-                    count += 1
+                if counter[ord(s[j]) - ord('a')] >= k:
+                    count += len(s) - j 
+                    break
         return count
 
 
