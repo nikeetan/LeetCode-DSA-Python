@@ -367,6 +367,7 @@
 | [3379-score-of-a-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3451-string-compression-iii) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -497,6 +498,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -544,6 +546,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3463-alternating-groups-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3483-alternating-groups-ii) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Binary Search
 |  |
 | ------- |
