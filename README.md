@@ -182,6 +182,7 @@
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3221-find-the-peaks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1343,4 +1344,5 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2998-count-symmetric-integers) |
+| [3221-find-the-peaks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
