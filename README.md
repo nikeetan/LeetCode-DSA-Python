@@ -335,6 +335,7 @@
 | [0647-palindromic-substrings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0785-basic-calculator-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0785-basic-calculator-iii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0812-rotate-string) |
@@ -942,6 +943,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0687-longest-univalue-path) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1008,6 +1010,7 @@
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
@@ -1070,6 +1073,7 @@
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
