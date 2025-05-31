@@ -10,7 +10,7 @@ class Solution:
         lvlsum = float('-inf')
         queue = deque()
         queue.append(root)
-        max_heap = []
+        level = 0
         curr_lvl = 0
         while queue:
             lvl = len(queue)
@@ -23,9 +23,8 @@ class Solution:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            lvlsum = max(lvlsum, curr_lvlsum)
-            heapq.heappush(max_heap, (-1 * lvlsum, curr_lvl))
-        print(max_heap)
-        value , level = heapq.heappop(max_heap)
+            if lvlsum < curr_lvlsum:
+                lvlsum = curr_lvlsum
+                level = curr_lvl
         return level
 
