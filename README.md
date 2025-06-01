@@ -86,6 +86,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
@@ -616,6 +617,7 @@
 | [0322-coin-change](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0542-01-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0647-palindromic-substrings) |
