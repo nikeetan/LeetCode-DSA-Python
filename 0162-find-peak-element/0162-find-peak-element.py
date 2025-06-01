@@ -7,8 +7,6 @@ class Solution:
                 r = mid
             elif nums [mid] < nums[mid + 1]:
                 l = mid + 1
-            else:
-                r = mid - 1
         return l
 
              
