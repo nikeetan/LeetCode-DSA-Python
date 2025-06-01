@@ -10,16 +10,13 @@ class Solution:
             if nums[i] == nums[i - 1]:
                 continue
             filtered.append(nums[i])
-        
-        
-        hillset = set()
-        valleyset = set()
-
+    
+        cnt = 0
         for i in range(1, len(filtered) - 1):
             if filtered[i] > filtered[i - 1] and filtered[i] > filtered[i + 1]:
-                hillset.add((i - 1, i + 1))
+                cnt += 1
             elif filtered[i] < filtered[i - 1] and filtered[i] < filtered[i + 1]:
-                valleyset.add((i - 1, i + 1))
-        return len(hillset) + len(valleyset)
+                cnt += 1 
+        return cnt
         #'''
 # TC : O(N )
