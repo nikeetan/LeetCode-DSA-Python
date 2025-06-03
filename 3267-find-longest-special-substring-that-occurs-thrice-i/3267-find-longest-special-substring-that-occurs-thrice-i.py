@@ -3,25 +3,24 @@ generating all the substring and storing them in a hash_map and then comparing t
 o(n**2) + o(k)
 
 '''
+import heapq
 class Solution:
     def maximumLength(self, s: str) -> int:
         d  = collections.defaultdict(int)
         max_string_val = float(-inf)
         for i in range(len(s)):
-            curr_sub = []
+            char = s[i]
+            sub_str_len = 0
             for j in range(i, len(s)):
-                if not curr_sub or curr_sub[-1] == s[j]:
-                    curr_sub.append(s[j])
-                    sub_str = ''.join(curr_sub)
-                    d[sub_str] += 1
+                if char == s[j]:
+                    sub_str_len += 1
+                    d[(s[j], sub_str_len)] += 1 
                 else:
                     break
-        for key, values in d.items():
-            if values >= 3:
-                if max_string_val < len(key):
-                    max_string_val = len(key)
+        for key, val in d.items():
+            if val >= 3:
+                max_string_val = max(max_string_val, key[-1])
         return max_string_val if max_string_val != float('-inf') else -1
-
-
-
-        
+        #return 0
+        # for key, values in d.items():
+        #     if values >= 3:
