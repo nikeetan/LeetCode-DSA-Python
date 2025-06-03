@@ -9,8 +9,8 @@ inorder traversal of the BST gives the sorted order
 '''
 class Solution:
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
-        '''
-        complement_map = {}
+        
+        #complement_map = {}
         def dfs(root):
             if root is None:
                 return []
@@ -18,10 +18,14 @@ class Solution:
             right = dfs(root.right)
             return left + [root.val] + right
         nums = dfs(root)
-        for i in nums:
-            if k - i in complement_map:
+        p1, p2 = 0, len(nums) - 1
+        while p1 < p2:
+            if nums[p1] + nums[p2] == k:
                 return True
-            complement_map[i] = i
+            elif nums[p1] + nums[p2] > k:
+                p2 -= 1
+            else:
+                p1 += 1
         return False
         '''
         seen = set()
@@ -33,3 +37,4 @@ class Solution:
             seen.add(root.val)
             return dfs(root.left) or dfs(root.right)
         return dfs(root)
+        '''
