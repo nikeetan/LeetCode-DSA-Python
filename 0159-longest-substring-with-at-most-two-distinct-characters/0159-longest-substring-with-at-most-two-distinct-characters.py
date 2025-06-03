@@ -13,13 +13,11 @@ class Solution:
         left, right = 0, 0
         d = collections.defaultdict((int))
         while right < len(s):
-            d[s[right]] += 1
-            while len(d) > 2 and left < right:
-                if d[s[left]] - 1 == 0:
-                    del d[s[left]]
-                else:
-                    d[s[left]] -= 1
-                left += 1
+            d[s[right]] = right
+            if len(d) > 2:
+                indx = min(d.values())
+                del d[s[indx]]
+                left = indx + 1
             ans = max(ans, right - left + 1)
             right += 1
         return ans 
