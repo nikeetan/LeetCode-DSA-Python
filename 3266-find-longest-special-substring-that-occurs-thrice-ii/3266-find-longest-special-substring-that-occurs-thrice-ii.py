@@ -1,4 +1,5 @@
 class Solution:
+    '''
     def maximumLength(self, s: str) -> int:
         frequency = [[0] * (len(s) + 1) for _ in range(26)]
         previous_character = s[0]
@@ -28,7 +29,7 @@ class Solution:
         return ans
     '''
     def maximumLength(self, s: str) -> int:
-        freq = [[ 0 for _ in range(len(s) + 1)] for _ in range(26)]
+        freq = [[0] * (len(s) + 1) for _ in range(26)]
         sub_str_len = 1
         prev_char = s[0]
         freq [ord(prev_char) - ord('a')][1] = 1
@@ -49,8 +50,9 @@ class Solution:
                 freq[i][j] += freq[i][j + 1]
                 if freq[i][j] >= 3:
                     ans = max(ans, j)
+                    break
         return ans 
-        '''
+        
         
 
 
