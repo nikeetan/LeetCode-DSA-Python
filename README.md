@@ -376,6 +376,7 @@
 | [2886-faulty-keyboard](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2886-faulty-keyboard) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3194-find-words-containing-character) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3379-score-of-a-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3447-clear-digits) |
@@ -515,6 +516,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -544,6 +546,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -567,6 +570,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3463-alternating-groups-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3483-alternating-groups-ii) |
@@ -604,6 +608,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2665-minimum-time-to-repair-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3643-zero-array-transformation-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3838-path-existence-queries-in-a-graph-i) |
