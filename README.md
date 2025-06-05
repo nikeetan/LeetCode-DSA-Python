@@ -53,6 +53,7 @@
 | [0118-pascals-triangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -1196,6 +1197,7 @@
 | [0011-container-with-most-water](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0253-meeting-rooms-ii) |
 | [0330-patching-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0409-longest-palindrome) |
