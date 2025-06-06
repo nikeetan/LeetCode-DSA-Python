@@ -184,6 +184,7 @@
 | [2728-sum-in-a-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [2833-count-zero-request-servers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2833-count-zero-request-servers) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -299,6 +300,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2728-sum-in-a-matrix) |
+| [2833-count-zero-request-servers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2833-count-zero-request-servers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -518,6 +520,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [2833-count-zero-request-servers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2833-count-zero-request-servers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
@@ -575,6 +578,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2833-count-zero-request-servers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2833-count-zero-request-servers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
