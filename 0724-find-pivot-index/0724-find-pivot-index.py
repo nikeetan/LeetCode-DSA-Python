@@ -1,14 +1,14 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        if len(nums) == 1:
-            return 0
-        else:
-            total_sum = sum(nums)
-            left = 0
-            for curr in range(0, len(nums)):
-                if total_sum - (left + nums[curr]) == left:
-                    return curr
-                left += nums[curr]
-            return -1
-
-
+        for i in range(len(nums)):
+            if i == 0:
+                continue
+            nums[i] = nums[i] + nums[i - 1]
+        for i in range(len(nums)):
+            if i == 0:
+                if nums[-1] - nums[i] == 0:
+                    return i
+                continue
+            if nums[i - 1] == nums[-1] - nums[i]:
+                return i
+        return -1
