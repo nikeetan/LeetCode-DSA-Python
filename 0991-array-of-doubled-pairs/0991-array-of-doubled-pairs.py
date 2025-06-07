@@ -33,7 +33,7 @@ class Solution:
             if num_map[arr[indx]] == 0:
                 indx += 1
                 continue
-            if ((arr[indx] in num_map) and (2 * arr[indx] in num_map)) and num_map[2 * arr[indx]] != 0 :
+            if  num_map[2 * arr[indx]] != 0 :
                 num_map[2 * arr[indx]] -= 1
                 num_map[arr[indx]] -= 1
                 cnt += 1  
