@@ -30,16 +30,14 @@ class Solution:
             return False
         arr.sort()
         while indx < len(arr):
-            if ((arr[indx] in num_map) and (2 * arr[indx] in num_map)):
+            if num_map[arr[indx]] == 0:
+                indx += 1
+                continue
+            if ((arr[indx] in num_map) and (2 * arr[indx] in num_map)) and num_map[2 * arr[indx]] != 0 :
                 num_map[2 * arr[indx]] -= 1
-                if num_map[2 * arr[indx]] == 0:
-                    del num_map[2 * arr[indx]]
                 num_map[arr[indx]] -= 1
-                if num_map[arr[indx]] == 0:
-                    del num_map[arr[indx]]
-                cnt += 1
+                cnt += 1  
             indx += 1
-        print(cnt)
         if cnt == len(arr) // 2:
             return True 
         return False
