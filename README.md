@@ -368,6 +368,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1160-letter-tile-possibilities) |
+| [1250-longest-common-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -665,6 +666,7 @@
 | [0868-push-dominoes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
