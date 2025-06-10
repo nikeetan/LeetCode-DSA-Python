@@ -350,6 +350,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0500-keyboard-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0588-design-in-memory-file-system) |
@@ -659,6 +660,7 @@
 | [0392-is-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0747-min-cost-climbing-stairs) |
