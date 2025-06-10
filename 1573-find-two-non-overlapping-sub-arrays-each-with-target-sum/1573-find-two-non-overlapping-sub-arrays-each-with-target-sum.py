@@ -27,10 +27,7 @@ class Solution:
                     best = min(prefix[left - 1] + curr_len, best)
                 min_len = min(min_len, curr_len)
             
-            if right > 0 and prefix[right - 1] != float('inf'):
-                prefix[right] = min(prefix[right - 1], min_len)
-            else:
-                prefix[right] = min_len
+            prefix[right] = min_len
         return best if best != float('inf') else -1
         
 
