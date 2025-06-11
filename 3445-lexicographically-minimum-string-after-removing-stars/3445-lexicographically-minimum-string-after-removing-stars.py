@@ -1,24 +1,20 @@
 '''
 monotonic [4, 3, 2, 1] decrease
 min heap works
+k = count('*')
+TC : O(n) + O((n -  k)log(n - k)) 
 '''
 
 
 class Solution:
     def clearStars(self, s: str) -> str:
         min_heap = []
-        to_remove = {}
-        new_string = ""
+        s = list(s)
         for indx, val in enumerate(s):
-            if val == '*':
+            if val == '*' and min_heap:
                 _, char_indx = heapq.heappop(min_heap)
-                to_remove[-1 * char_indx] = 1 
+                s[-1 * char_indx] = ''
+                s[indx] = ''
             else:
                 heapq.heappush(min_heap, (val, -1 * indx))
-        for indx, val in enumerate(s):
-            if (val == '*') or (indx in to_remove):
-                continue
-            new_string += s[indx]
-        return new_string
-            
-        
+        return ''.join(s)
