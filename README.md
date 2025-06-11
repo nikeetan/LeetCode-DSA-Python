@@ -393,6 +393,7 @@
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3379-score-of-a-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3379-score-of-a-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3451-string-compression-iii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -538,6 +539,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -875,6 +877,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2728-sum-in-a-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -931,6 +934,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -1234,6 +1238,7 @@
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
