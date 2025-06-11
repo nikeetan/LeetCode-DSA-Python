@@ -165,6 +165,7 @@
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2048-build-array-from-permutation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2048-build-array-from-permutation) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -517,6 +518,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
@@ -562,6 +564,7 @@
 | [1708-design-parking-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1708-design-parking-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
