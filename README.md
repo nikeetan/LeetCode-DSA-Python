@@ -94,6 +94,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0486-predict-the-winner) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0500-keyboard-row) |
@@ -419,6 +420,7 @@
 | [0326-power-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0523-continuous-subarray-sum) |
 | [0785-basic-calculator-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0785-basic-calculator-iii) |
@@ -662,6 +664,7 @@
 | [0337-house-robber-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0486-predict-the-winner) |
 | [0487-max-consecutive-ones-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0542-01-matrix) |
@@ -815,6 +818,7 @@
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0486-predict-the-winner) |
 | [0785-basic-calculator-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0785-basic-calculator-iii) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 ## Graph
@@ -1423,4 +1427,8 @@
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3221-find-the-peaks) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
