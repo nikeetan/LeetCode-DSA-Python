@@ -31,7 +31,28 @@ class Solution:
             return False
         findbobpath(bob, 0)
         maxIncome = float('-inf')
-       
+        visited = set()
+        def findalicePath(sourceNode, time, income):
+            nonlocal maxIncome
+            visited.add(sourceNode)
+            if ((sourceNode not in bobpath) or (bobpath[sourceNode] > time)):
+                income += amount[sourceNode]
+            elif bobpath[sourceNode] == time:
+                income += (amount[sourceNode]) // 2
+            if len(adj[sourceNode]) == 1 and sourceNode != 0:
+                maxIncome = max(maxIncome, income)
+            for nei in adj.get(sourceNode, []):
+                if nei not in visited:
+                    findalicePath(nei, time + 1, income)
+        findalicePath(0, 0, 0)
+        return maxIncome
+
+
+
+
+
+
+        '''
         #start, time, cost
         start = (0, 0, 0)
         queue = deque()
@@ -53,6 +74,7 @@ class Solution:
                     visited.add(nei)
 
         return maxIncome
+        '''
                 
 
 
