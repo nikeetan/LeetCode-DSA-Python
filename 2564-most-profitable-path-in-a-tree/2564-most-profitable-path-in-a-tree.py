@@ -4,6 +4,10 @@ i would apply the bfs on the neighbors and find the maximum gain and proceed wit
 from collections import deque
 class Solution:
     def mostProfitablePath(self, edges: List[List[int]], bob: int, amount: List[int]) -> int:
+        bobpath = {}
+        visited = set()
+        time = 0
+        maxIncome = float('-inf')
         adj = {}
         for u, v in edges:
             if u not in adj:
@@ -15,9 +19,7 @@ class Solution:
             elif v in adj:
                 adj[v].append(u)
 
-        bobpath = {}
-        visited = set()
-        time = 0
+
         def findbobpath(sourceNode, time):
             bobpath[sourceNode] = time
             visited.add(sourceNode)
@@ -30,7 +32,7 @@ class Solution:
             bobpath.pop(sourceNode)
             return False
         findbobpath(bob, 0)
-        maxIncome = float('-inf')
+
         visited = set()
         def findalicePath(sourceNode, time, income):
             nonlocal maxIncome
