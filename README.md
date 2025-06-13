@@ -185,6 +185,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2665-minimum-time-to-repair-cars) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
@@ -637,6 +638,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2665-minimum-time-to-repair-cars) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1248,6 +1250,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
