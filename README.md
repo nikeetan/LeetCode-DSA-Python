@@ -168,6 +168,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -302,6 +303,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -634,6 +636,7 @@
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1249,6 +1252,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
