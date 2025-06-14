@@ -1,15 +1,14 @@
 class Solution:
     def minNumberOperations(self, target: List[int]) -> int:
-        diff = [0 - x for x in target]
         n = len(target)
         incrOp = 0
         operation = 0
         for i in range(n):
-            if diff[i] < 0:
-                if incrOp < -1 * diff[i]:
-                    extra = (-1 * diff[i]) - incrOp
+            if -1 * target[i] < 0:
+                if incrOp < target[i]:
+                    extra = (target[i]) - incrOp
                     operation += extra
-                incrOp = -1 * diff[i]
+                incrOp = target[i]
             else:
                 incrOp = 0
         return operation
