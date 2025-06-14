@@ -210,6 +210,7 @@
 | [3429-special-array-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3463-alternating-groups-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -701,6 +702,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
 |  |
@@ -959,6 +961,7 @@
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3447-clear-digits) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -971,6 +974,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -1271,6 +1275,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
