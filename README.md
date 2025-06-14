@@ -372,6 +372,7 @@
 | [0785-basic-calculator-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0785-basic-calculator-iii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0812-rotate-string) |
+| [0857-positions-of-large-groups](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
