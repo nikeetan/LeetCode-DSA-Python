@@ -153,6 +153,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1646-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1706-min-cost-to-connect-all-points) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -695,6 +696,7 @@
 | [1250-longest-common-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -957,6 +959,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -974,6 +977,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Backtracking
 |  |
@@ -1265,6 +1269,7 @@
 | [0991-array-of-doubled-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0991-array-of-doubled-pairs) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
