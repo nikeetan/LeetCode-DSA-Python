@@ -5,32 +5,25 @@ reusing the result so
 
 class Solution:
     def sumSubarrayMins(self, arr: List[int]) -> int:        
-        '''
-        min_stk = []
-        total_sum = 0
+        
+        stk = []
+        n = len(arr)
+        res = [0] * n 
         mod = 10 ** 9 + 7
-        for i in range(len(arr) - 1, - 1, -1):
-            if min_stk:
-                while min_stk and arr[i] < min_stk[-1][0]:
-                    min_stk.pop()
-                if min_stk:
-                    # upto index k
-                    sub_sum = (arr[i] * (min_stk[-1][1] - i) + min_stk[-1][2]) % mod
-                    total_sum += (sub_sum)% mod
-                    min_stk.append((arr[i], i, sub_sum))
-                else:
-                    sub_sum = (arr[i] * (len(arr) - i)) % mod
-                    total_sum += sub_sum
-                    min_stk.append((arr[i], i, sub_sum))
-
+        for i in range(n):
+            while stk and arr[stk[-1]] > arr[i]:
+                stk.pop()
+            if stk:
+                res[i] = res[stk[-1]] + arr[i] * (i - stk[-1])
             else:
-                total_sum += (arr[i]) % mod
-                min_stk.append((arr[i], i, arr[i] % mod))
-        return total_sum
-        '''
+                res[i] = arr[i] * (i + 1)
+            stk.append(i)
+        return sum(res) % mod
+        
         '''
         previous lesser
         next lesser
+        '''
         '''
         n = len(arr)
         ple = [-1] * n
@@ -62,3 +55,5 @@ class Solution:
             right = nle[i] - i
             ans = (ans + arr[i] * (left * right)) % mod
         return ans
+        '''
+
