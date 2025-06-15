@@ -6,8 +6,6 @@ class Solution:
         for i in s:
             if i == ' ' and digit_cnt == 0 and sign == 0:
                 continue
-            elif i == ' ' and (digit_cnt > 0 or sign != 0):
-                break
             elif (ord(i) >= 48) and (ord(i) <= 57):
                 digit = digit * 10 + int(i)
                 digit_cnt += 1
@@ -16,9 +14,7 @@ class Solution:
                     sign = -1
                 else:
                     sign = 1
-            elif (i == '-' or i == '+') and ((sign != 0) or (digit_cnt > 0)):
-                break
-            elif ((ord(i) < 48) or (ord(i) > 57)):
+            else:
                 break
            
         if sign != 0:
@@ -33,6 +29,4 @@ class Solution:
         
             
 
-        21474836460
-        2147483648
     
