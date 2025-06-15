@@ -448,6 +448,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2383-add-two-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2610-closest-prime-numbers-in-range) |
@@ -849,6 +850,7 @@
 | [0486-predict-the-winner](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0486-predict-the-winner) |
 | [0785-basic-calculator-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0785-basic-calculator-iii) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Graph
 |  |
 | ------- |
@@ -1278,6 +1280,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
