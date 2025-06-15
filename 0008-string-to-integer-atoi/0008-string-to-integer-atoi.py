@@ -9,7 +9,7 @@ class Solution:
             elif (ord(i) >= 48) and (ord(i) <= 57):
                 digit = digit * 10 + int(i)
                 digit_cnt += 1
-            elif (i == '-' or i == '+') and (sign == 0) and (digit == 0) and (digit_cnt == 0):
+            elif (i == '-' or i == '+') and (sign == 0) and (digit_cnt == 0):
                 if i == '-':
                     sign = -1
                 else:
