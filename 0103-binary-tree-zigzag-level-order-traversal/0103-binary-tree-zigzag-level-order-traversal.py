@@ -8,6 +8,7 @@ class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         '''
         BFS if the level is divisible by 2 reverse else the same
+        i Know for every level 2 * i + 1 gives me the left child
         '''
         if root is None:
             return []
@@ -21,15 +22,15 @@ class Solution:
             level_nodes = []
             for i in range(lvl):
                 node = queue.popleft()
-                level_nodes.append(node.val)
+                if level_cnt % 2 != 0:
+                    level_nodes.insert(0, node.val)
+                else:
+                    level_nodes.append(node.val)
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            if level_cnt % 2 == 0:
-                res.append(level_nodes)
-            else:
-                res.append(level_nodes[::-1])
+            res.append(level_nodes)
             level_cnt += 1
         return res
 
