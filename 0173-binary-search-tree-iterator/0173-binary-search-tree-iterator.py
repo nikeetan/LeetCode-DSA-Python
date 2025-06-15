@@ -9,6 +9,7 @@ class BSTIterator:
     def __init__(self, root: Optional[TreeNode]):
         self.bst = self.helper(root)
         self.pointer = -1
+        self.n = len(self.bst)
     def helper(self, root):
         if root is None:
             return []
@@ -20,7 +21,7 @@ class BSTIterator:
         self.pointer += 1
         return self.bst[self.pointer]
     def hasNext(self) -> bool:
-        if self.pointer + 1 < len(self.bst):
+        if self.pointer + 1 < self.n:
             return True
         return False
 
