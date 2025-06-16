@@ -170,6 +170,7 @@
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2048-build-array-from-permutation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
