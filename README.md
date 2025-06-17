@@ -56,6 +56,7 @@
 | [0135-candy](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0164-maximum-gap) |
@@ -432,6 +433,7 @@
 | [0066-plus-one](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0227-basic-calculator-ii) |
@@ -959,6 +961,7 @@
 | [0143-reorder-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
