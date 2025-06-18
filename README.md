@@ -153,6 +153,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -310,6 +311,7 @@
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1308-smallest-string-with-swaps](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1308-smallest-string-with-swaps) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1311,6 +1313,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
