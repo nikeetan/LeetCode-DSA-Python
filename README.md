@@ -459,6 +459,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2383-add-two-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2448-count-number-of-bad-pairs) |
@@ -720,6 +721,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2262-solving-questions-with-brainpower](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2262-solving-questions-with-brainpower) |
