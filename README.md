@@ -889,6 +889,7 @@
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0820-find-eventual-safe-states) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1558-course-schedule-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1558-course-schedule-iv) |
@@ -1160,6 +1161,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1308-smallest-string-with-swaps) |
@@ -1226,6 +1228,7 @@
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1460,6 +1463,7 @@
 | [0207-course-schedule](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
+| [0820-find-eventual-safe-states](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2439-longest-cycle-in-a-graph) |
