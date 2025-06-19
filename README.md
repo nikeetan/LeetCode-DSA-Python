@@ -365,6 +365,7 @@
 | [0269-alien-dictionary](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0383-ransom-note](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
@@ -979,6 +980,7 @@
 | [0227-basic-calculator-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0496-next-greater-element-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
@@ -1066,6 +1068,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0337-house-robber-iii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
@@ -1275,6 +1278,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0337-house-robber-iii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0366-find-leaves-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0404-sum-of-left-leaves) |
