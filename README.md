@@ -234,6 +234,7 @@
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3849-equal-sum-grid-partition-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -782,6 +783,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3643-zero-array-transformation-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
@@ -815,6 +817,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3849-equal-sum-grid-partition-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3849-equal-sum-grid-partition-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1535,6 +1538,7 @@
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3221-find-the-peaks) |
+| [3849-equal-sum-grid-partition-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Game Theory
 |  |
 | ------- |
