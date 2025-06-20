@@ -389,6 +389,7 @@
 | [0857-positions-of-large-groups](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0874-backspace-string-compare) |
+| [0889-buddy-strings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0889-buddy-strings) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
 | [0965-unique-email-addresses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1023-time-based-key-value-store) |
@@ -527,6 +528,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
+| [0889-buddy-strings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
