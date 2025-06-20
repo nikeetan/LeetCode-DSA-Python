@@ -90,6 +90,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0416-partition-equal-subset-sum) |
@@ -451,6 +452,7 @@
 | [0326-power-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0492-construct-the-rectangle) |
@@ -756,6 +758,7 @@
 | [0355-design-twitter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0588-design-in-memory-file-system) |
@@ -1395,6 +1398,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0384-shuffle-an-array) |
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 ## Memoization
 |  |
