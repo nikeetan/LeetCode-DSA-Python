@@ -480,6 +480,7 @@
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3192-maximum-xor-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3192-maximum-xor-product) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3568-find-the-key-of-the-numbers) |
@@ -841,6 +842,7 @@
 | [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3192-maximum-xor-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3192-maximum-xor-product) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Linked List
@@ -1350,6 +1352,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3192-maximum-xor-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3192-maximum-xor-product) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
