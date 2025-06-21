@@ -9,12 +9,12 @@ class Solution:
         return self.array
 
     def shuffle(self) -> List[int]:
-        temp = self.array.copy()
-        for indx in range(len(self.array)):
-            popindx = random.randrange(len(temp))
-            self.array[indx] = temp.pop(popindx)
+        last_indx = len(self.array) - 1
+        while last_indx > 0:
+            shuffle_indx = random.randrange(last_indx + 1)
+            self.array[last_indx], self.array[shuffle_indx] = self.array[shuffle_indx], self.array[last_indx]
+            last_indx -= 1
         return self.array
-
                 
     
 # Your Solution object will be instantiated and called as such:
