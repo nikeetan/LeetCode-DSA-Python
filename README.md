@@ -224,6 +224,7 @@
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3463-alternating-groups-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3483-alternating-groups-ii) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -483,6 +484,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3192-maximum-xor-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3192-maximum-xor-product) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3568-find-the-key-of-the-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -743,6 +745,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
 |  |
@@ -789,6 +792,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3643-zero-array-transformation-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Matrix
@@ -1443,6 +1447,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0062-unique-paths) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
