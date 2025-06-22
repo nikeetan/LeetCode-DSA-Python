@@ -10,21 +10,19 @@ class Solution:
         price[start_node] = 1
        
         for i in range(n - 1):
-            temp = price.copy()
             flag = 0
             for i in range(len(edges)):
                 u, v = edges[i]
                 prob = succProb[i]
                 #print(u, v, prob)
                 if price[u] != float('-inf') and price[u] *  prob > price[v]:
-                    temp[v] = price[u] * prob
+                    price[v] = price[u] * prob
                     flag = 1
                 elif price[v] != float('-inf') and price[v] * prob > price[u]:
-                    temp[u] = price[v] * prob
+                    price[u] = price[v] * prob
                     flag = 1
             if flag == 0:
                 break
-            price = temp.copy()
         return price[end_node] if price[end_node] != float('-inf') else 0 
 
 
