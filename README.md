@@ -418,6 +418,7 @@
 | [2186-count-vowel-substrings-of-a-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2406-decode-the-message](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2406-decode-the-message) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2580-circular-sentence) |
@@ -976,6 +977,7 @@
 | [1708-design-parking-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1708-design-parking-system) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2692-take-gifts-from-the-richest-pile) |
