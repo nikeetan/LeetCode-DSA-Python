@@ -145,6 +145,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1308-smallest-string-with-swaps](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1308-smallest-string-with-swaps) |
+| [1325-path-with-maximum-probability](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1364-tuple-with-same-product) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1382-calculate-amount-paid-in-taxes) |
@@ -907,6 +908,7 @@
 | [0820-find-eventual-safe-states](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0820-find-eventual-safe-states) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
+| [1325-path-with-maximum-probability](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1325-path-with-maximum-probability) |
 | [1558-course-schedule-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1706-min-cost-to-connect-all-points) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -943,6 +945,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
+| [1325-path-with-maximum-probability](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2434-design-a-number-container-system) |
@@ -1506,6 +1509,7 @@
 | [0399-evaluate-division](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1325-path-with-maximum-probability) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Function
