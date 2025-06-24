@@ -474,6 +474,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2037-count-square-sum-triples](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2037-count-square-sum-triples) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2383-add-two-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2448-count-number-of-bad-pairs) |
@@ -1558,6 +1559,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2037-count-square-sum-triples) |
 | [2998-count-symmetric-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3221-find-the-peaks) |
 | [3849-equal-sum-grid-partition-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3849-equal-sum-grid-partition-i) |
