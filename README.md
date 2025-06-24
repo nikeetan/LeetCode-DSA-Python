@@ -1130,6 +1130,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1200,6 +1201,7 @@
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0820-find-eventual-safe-states) |
@@ -1267,6 +1269,7 @@
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0820-find-eventual-safe-states) |
@@ -1339,6 +1342,7 @@
 | [0687-longest-univalue-path](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1423,6 +1427,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Randomized
 |  |
