@@ -7,8 +7,9 @@ class Solution:
         seen = set()
         for j in key_indices:
             for i in range(len(nums)):
-                if (abs(i - j) <= k) and (i not in seen):
-                    seen.add(i)
-                    k_dist.append(i)
+                if i not in seen:
+                    if (abs(i - j) <= k):
+                        seen.add(i)
+                        k_dist.append(i)
         return k_dist
         
