@@ -179,6 +179,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2181-smallest-index-with-equal-value](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2181-smallest-index-with-equal-value) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2262-solving-questions-with-brainpower) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
