@@ -426,6 +426,7 @@
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2406-decode-the-message](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2406-decode-the-message) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2580-circular-sentence) |
@@ -755,6 +756,7 @@
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2262-solving-questions-with-brainpower](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2586-longest-square-streak-in-an-array) |
 | [2690-house-robber-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2690-house-robber-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1375,6 +1377,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2690-house-robber-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2690-house-robber-iv) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1443,6 +1446,7 @@
 | [0140-word-break-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Merge Sort
 |  |
 | ------- |
