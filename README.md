@@ -924,6 +924,7 @@
 | [0547-number-of-provinces](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
+| [0770-couples-holding-hands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0820-find-eventual-safe-states) |
@@ -1202,6 +1203,7 @@
 | [0733-flood-fill](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0770-couples-holding-hands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0770-couples-holding-hands) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1271,6 +1273,7 @@
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0770-couples-holding-hands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0770-couples-holding-hands) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
@@ -1367,6 +1370,7 @@
 | [0330-patching-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
+| [0770-couples-holding-hands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0770-couples-holding-hands) |
 | [0991-array-of-doubled-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0991-array-of-doubled-pairs) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1501,6 +1505,7 @@
 | [0684-redundant-connection](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0721-accounts-merge) |
+| [0770-couples-holding-hands](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0770-couples-holding-hands) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
