@@ -423,6 +423,7 @@
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -627,6 +628,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1083,6 +1085,7 @@
 | [0257-binary-tree-paths](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1160-letter-tile-possibilities) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
@@ -1382,6 +1385,7 @@
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
@@ -1591,6 +1595,7 @@
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2037-count-square-sum-triples) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2998-count-symmetric-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3221-find-the-peaks) |
 | [3849-equal-sum-grid-partition-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3849-equal-sum-grid-partition-i) |
