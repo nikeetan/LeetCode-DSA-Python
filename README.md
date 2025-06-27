@@ -119,6 +119,7 @@
 | [0739-daily-temperatures](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0777-toeplitz-matrix) |
+| [0830-largest-triangle-area](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0898-transpose-matrix) |
@@ -474,6 +475,7 @@
 | [0492-construct-the-rectangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0523-continuous-subarray-sum) |
 | [0785-basic-calculator-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0785-basic-calculator-iii) |
+| [0830-largest-triangle-area](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
@@ -1581,6 +1583,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
