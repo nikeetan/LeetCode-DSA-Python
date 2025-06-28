@@ -243,6 +243,7 @@
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3849-equal-sum-grid-partition-i) |
 ## Two Pointers
