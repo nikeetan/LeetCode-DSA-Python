@@ -234,6 +234,7 @@
 | [3483-alternating-groups-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3483-alternating-groups-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3643-zero-array-transformation-ii) |
@@ -857,6 +858,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -958,6 +960,7 @@
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3189-find-champion-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
@@ -995,6 +998,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -1317,6 +1321,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3825-apply-substitutions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3825-apply-substitutions) |
 ## Binary Tree
 |  |
@@ -1571,6 +1576,7 @@
 | [0744-network-delay-time](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1325-path-with-maximum-probability) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Function
