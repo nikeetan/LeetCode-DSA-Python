@@ -493,6 +493,7 @@
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2383-add-two-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2448-count-number-of-bad-pairs) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1398,6 +1399,7 @@
 | [2263-maximum-running-time-of-n-computers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2690-house-robber-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2690-house-robber-iv) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
