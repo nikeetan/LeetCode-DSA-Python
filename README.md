@@ -132,6 +132,7 @@
 | [0940-fruit-into-baskets](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0943-sum-of-subarray-minimums) |
 | [0965-unique-email-addresses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0965-unique-email-addresses) |
+| [0967-minimum-falling-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0967-minimum-falling-path-sum) |
 | [0991-array-of-doubled-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0991-array-of-doubled-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -761,6 +762,7 @@
 | [0868-push-dominoes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -850,6 +852,7 @@
 | [0777-toeplitz-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0898-transpose-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
