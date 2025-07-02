@@ -425,6 +425,7 @@
 | [1250-longest-common-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1308-smallest-string-with-swaps) |
+| [1321-get-equal-substrings-within-budget](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -673,6 +674,7 @@
 | [0658-find-k-closest-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1755-defuse-the-bomb](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1755-defuse-the-bomb) |
@@ -711,6 +713,7 @@
 | [1023-time-based-key-value-store](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1321-get-equal-substrings-within-budget](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1321-get-equal-substrings-within-budget) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
@@ -832,6 +835,7 @@
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1321-get-equal-substrings-within-budget) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
