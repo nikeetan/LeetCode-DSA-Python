@@ -515,6 +515,7 @@
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3568-find-the-key-of-the-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
@@ -900,6 +901,7 @@
 | [3192-maximum-xor-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3192-maximum-xor-product) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -943,6 +945,7 @@
 | [0785-basic-calculator-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0785-basic-calculator-iii) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
 | ------- |
@@ -1042,6 +1045,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
