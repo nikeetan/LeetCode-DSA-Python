@@ -512,6 +512,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3192-maximum-xor-product](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3192-maximum-xor-product) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3227-find-missing-and-repeated-values) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3568-find-the-key-of-the-numbers) |
@@ -1044,6 +1045,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3447-clear-digits) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3732-calculate-score-after-performing-instructions) |
