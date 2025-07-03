@@ -1183,6 +1183,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1634-clone-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1634-clone-n-ary-tree) |
 | [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
@@ -1260,6 +1261,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1428-jump-game-iii) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1558-course-schedule-iv) |
 | [1634-clone-n-ary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1634-clone-n-ary-tree) |
@@ -1401,6 +1403,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
