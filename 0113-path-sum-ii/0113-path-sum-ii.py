@@ -11,7 +11,6 @@ class Solution:
             if root is None:
                 return
             if(root.left is None) and (root.right is None):
-                print("I am here")
                 if pathsum - root.val == 0:
                     path.append(root.val)
                     Paths.append(path[:])
