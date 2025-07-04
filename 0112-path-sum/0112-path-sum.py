@@ -6,9 +6,6 @@
 #         self.right = right
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
-        '''
-        Go with including and non including thing
-        '''
         if root is None:
             return False
         if ((root.left is None) and (root.right is None)):
