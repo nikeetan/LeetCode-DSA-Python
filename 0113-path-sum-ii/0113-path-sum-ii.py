@@ -14,6 +14,7 @@ class Solution:
                 if pathsum - root.val == 0:
                     path.append(root.val)
                     Paths.append(path[:])
+                return
             helper(root.left, pathsum - root.val, path + [root.val])
             helper(root.right, pathsum - root.val, path + [root.val])
         helper(root, targetSum, [])
