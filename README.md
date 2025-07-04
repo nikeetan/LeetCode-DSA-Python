@@ -430,6 +430,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1512-design-underground-system](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1512-design-underground-system) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -1083,6 +1084,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
