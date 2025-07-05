@@ -72,6 +72,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0228-summary-ranges) |
@@ -549,6 +550,7 @@
 | [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
@@ -676,6 +678,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0219-contains-duplicate-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0424-longest-repeating-character-replacement) |
