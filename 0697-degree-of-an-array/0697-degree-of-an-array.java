@@ -10,8 +10,7 @@ class Solution {
         HashMap<Integer, Integer> right = new HashMap<>();
 
 
-        for(int i = 0; i < nums.length; i ++)
-        {
+        for(int i = 0; i < nums.length; i ++){
             if (!left.containsKey(nums[i])){
                 left.put(nums[i], i);
             }
@@ -21,12 +20,7 @@ class Solution {
             else{
                 right.put(nums[i], i);
             }
-            if (!count.containsKey(nums[i])){
-                count.put(nums[i], 1);
-            }
-            else{
-                count.put(nums[i], count.get(nums[i]) + 1);
-            }
+            count.put(nums[i], count.getOrDefault(nums[i], 0) + 1 );
         }
         int maxOccurance = Collections.max(count.values());
         int length = Integer.MAX_VALUE;
