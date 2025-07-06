@@ -149,6 +149,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1127-last-stone-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1019,6 +1020,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1127-last-stone-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1127-last-stone-weight) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1325-path-with-maximum-probability](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
