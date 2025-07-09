@@ -1,12 +1,31 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-
-        HashSet<List<Integer>> res = new HashSet<>();
         Arrays.sort(nums);
-        for(int i = 0; i < nums.length - 2; i++){
+        HashSet<List<Integer>> res = new HashSet<>();
+        for(int i = 0; i < nums.length; i++){
             if ((i > 0) && (nums[i] == nums[i - 1])){
                 continue;
             }
+            Set<Integer> seen = new HashSet<>();
+            int j = i + 1;
+            while(j < nums.length){
+                int complement = -nums[i] - nums[j];
+                if (seen.contains(complement)){
+                    res.add(Arrays.asList(nums[i], nums[j], complement));
+                    while(j + 1 < nums.length && nums[j] == nums[j +1]){
+                        j += 1;
+                    }
+                }
+                seen.add(nums[j]);
+                j += 1;
+            } 
+        }
+        return new ArrayList<>(res);
+    }
+}
+
+
+            /*
             int pointer1 = i + 1;
             int pointer2 = nums.length - 1;
             while(pointer1 < pointer2){
@@ -33,3 +52,4 @@ class Solution {
         return new ArrayList<>(res);
     }
 }
+*/
