@@ -178,6 +178,7 @@
 | [1753-path-with-minimum-effort](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1813-maximum-erasure-value) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1876-map-of-highest-peak) |
@@ -605,6 +606,7 @@
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1722-throne-inheritance](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1722-throne-inheritance) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2060-merge-bsts-to-create-single-bst) |
@@ -695,6 +697,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1755-defuse-the-bomb](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
