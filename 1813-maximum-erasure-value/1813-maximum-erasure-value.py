@@ -8,7 +8,6 @@ class Solution:
     def maximumUniqueSubarray(self, nums: List[int]) -> int:
         numberMap = defaultdict(int)
         left, right = 0, 0
-        winLen = 0
         maxLen = float('-inf')
         maxSum = float('-inf')
         currSum = 0
@@ -21,7 +20,6 @@ class Solution:
                     numberMap[nums[left]] -= 1
                 currSum -= nums[left]
                 left += 1
-
             numberMap[currnum] += 1
             currSum += currnum
             maxSum = max(maxSum, currSum)
