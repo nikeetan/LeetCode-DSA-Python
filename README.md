@@ -137,6 +137,7 @@
 | [0926-find-and-replace-pattern](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0954-maximum-sum-circular-subarray) |
 | [0965-unique-email-addresses](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0965-unique-email-addresses) |
 | [0967-minimum-falling-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0967-minimum-falling-path-sum) |
 | [0991-array-of-doubled-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0991-array-of-doubled-pairs) |
@@ -792,6 +793,7 @@
 | [0868-push-dominoes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1250-longest-common-subsequence) |
@@ -1488,6 +1490,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0954-maximum-sum-circular-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -1572,6 +1575,7 @@
 | [0225-implement-stack-using-queues](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Union Find
@@ -1663,6 +1667,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Radix Sort
 |  |
