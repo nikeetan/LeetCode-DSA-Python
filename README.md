@@ -114,6 +114,7 @@
 | [0542-01-matrix](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0598-range-addition-ii) |
 | [0621-task-scheduler](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0654-maximum-binary-tree) |
@@ -498,6 +499,7 @@
 | [0486-predict-the-winner](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0598-range-addition-ii) |
 | [0785-basic-calculator-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0785-basic-calculator-iii) |
 | [0830-largest-triangle-area](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0912-random-pick-with-weight) |
