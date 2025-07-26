@@ -1,8 +1,13 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        @cache
-        def dfs(m, n):
-            if m == 1 or n == 1:
+        memo = {}
+        def helper(row, col):
+            if (row, col) in memo:
+                return memo[(row, col)]
+            if ((row == m - 1) and (col == n - 1)):
                 return 1
-            return dfs(m - 1, n) + dfs(m, n - 1)
-        return dfs(m, n)
+            if (((row < 0) or (row >= m)) or ((col < 0) or (col >= n))):
+                return 0
+            memo[(row, col)] = helper(row + 1, col) + helper(row, col + 1)
+            return memo[(row, col)]
+        return helper(0, 0)
