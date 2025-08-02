@@ -69,14 +69,14 @@ o(1)
 '''
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        maxi = float('-inf')
-        curr_sum = 0
-        for curr_num in nums:
-            curr_sum += curr_num            
-            curr_sum = max(curr_num, curr_sum)
-            maxi = max(maxi, curr_sum)
-            print(curr_sum)
-        return maxi
+        currSum = 0
+        subMax = float('-inf')
+        for currnum in nums:
+            currSum += currnum
+            currSum = max(currSum, currnum)
+            subMax = max(subMax, currSum)
+        return subMax
+    
 
 
 
