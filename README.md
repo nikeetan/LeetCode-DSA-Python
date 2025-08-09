@@ -153,6 +153,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1087-longest-arithmetic-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1087-longest-arithmetic-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1168-duplicate-zeros) |
@@ -598,6 +599,7 @@
 | [0991-array-of-doubled-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0991-array-of-doubled-pairs) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1023-time-based-key-value-store) |
+| [1087-longest-arithmetic-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1087-longest-arithmetic-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -742,6 +744,7 @@
 | [1023-time-based-key-value-store](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1087-longest-arithmetic-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1087-longest-arithmetic-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1321-get-equal-substrings-within-budget) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1646-kth-missing-positive-number) |
@@ -803,6 +806,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1013-fibonacci-number) |
+| [1087-longest-arithmetic-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
