@@ -491,6 +491,7 @@
 | [0202-happy-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0371-sum-of-two-integers) |
@@ -919,6 +920,7 @@
 | [0078-subsets](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0371-sum-of-two-integers) |
@@ -969,6 +971,7 @@
 | [0203-remove-linked-list-elements](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/0486-predict-the-winner) |
