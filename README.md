@@ -1231,6 +1231,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1315,6 +1316,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
@@ -1385,6 +1387,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2793-count-the-number-of-complete-components) |
@@ -1452,6 +1455,7 @@
 | [2060-merge-bsts-to-create-single-bst](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/nikeetan/LeetCode-DSA-Python/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 ## Greedy
 |  |
