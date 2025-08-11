@@ -25,8 +25,7 @@ class Solution:
                 continue
             odd_level = True
             elements.extend(levelElements)
-       
-        print(elements)
+    
        
         #cnstruct binary tree is bascially dfs
         newroot = TreeNode(0)
