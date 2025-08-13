@@ -3,10 +3,13 @@
 0 1 1 1 
 0 
 '''
-import math
-
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
-        return n > 0 and not (n & (n - 1))
+        while n > 1:
+            rem = n % 2
+            if rem != 0:
+                return False
+            n = n // 2
+        return True if n > 0 else False
 
         
